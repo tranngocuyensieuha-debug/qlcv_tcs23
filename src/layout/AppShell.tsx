@@ -207,7 +207,27 @@ export default function AppShell() {
                 {account.role === "lead" ? "Lãnh đạo" : "Tổ trưởng"} ({account.id})
               </small>
             </div>
-            <div style={{ display: "flex", gap: "6px", alignItems: "center" }}>
+            <div style={{ display: "flex", gap: "6px", alignItems: "center", flexWrap: "wrap" }}>
+              <button
+                type="button"
+                onClick={() => setPage("history")}
+                style={{
+                  background: page === "history" ? "#1D4ED8" : "#F1F5F9",
+                  color: page === "history" ? "#FFFFFF" : "#334155",
+                  border: "1px solid #CBD5E1",
+                  padding: "5px 10px",
+                  borderRadius: "6px",
+                  fontSize: "0.82rem",
+                  fontWeight: 600,
+                  cursor: "pointer",
+                  display: "inline-flex",
+                  alignItems: "center",
+                  gap: "4px"
+                }}
+                title="Xem lịch sử thao tác của các user trên hệ thống"
+              >
+                <span>⏱</span> Lịch sử thao tác
+              </button>
               <button
                 type="button"
                 onClick={() => {

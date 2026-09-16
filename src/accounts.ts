@@ -177,6 +177,14 @@ const LEGACY_ALIASES: Record<string, string> = {
   ntdung: 'nthoa',
   totruong_nvdtpc: 'pttchinh',
   totruong_qltk: 'ntnga',
+  uyen_hkd1: 'ttnuyen',
+  manh_hkd2: 'ndmanh',
+  huong_qldn1: 'tthuong',
+  hue_qldn2: 'ttmhue',
+  ngoc_kt: 'ntyngoc',
+  hoa_hcth: 'nthoa',
+  chinh_nvdtpc: 'pttchinh',
+  nga_qltk: 'ntnga',
 };
 
 export function findAccount(accountId: string): SessionAccount | undefined {

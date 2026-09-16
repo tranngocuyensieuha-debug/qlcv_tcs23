@@ -6,6 +6,7 @@ import { importWorkbook, MAX_IMPORT_BYTES, parseExcelDataset } from './excelAdap
 import { buildImportErrorsWorkbook, downloadImportErrors, IMPORT_ERRORS_FILENAME } from './exportErrors';
 import { migrateDataset } from '../data/localStorageRepository';
 import { mergeTeamDataset } from '../data/mergeTeamDataset';
+import { mergeThematicDataset } from '../data/mergeThematicDataset';
 import { seedDataset } from '../data/seedDataset';
 
 function bufferOf(sheets: Record<string, unknown[][]>): ArrayBuffer {
@@ -334,3 +335,68 @@ describe('exportErrors', () => {
     expect(calls[0][1]).toBe(IMPORT_ERRORS_FILENAME);
   });
 });
+
+describe('Thematic imports and mergeThematicDataset', () => {
+  it('đọc file chuyên đề nạp nhiều tổ và gán đúng tổ cho cán bộ', () => {
+    const source = bufferOf({
+      'Du lieu': [
+        ['STT', 'Tên nhiệm vụ', 'Cán bộ', 'Tổ quản lý', 'Phải thực hiện', 'Đã thực hiện', 'Thời hạn'],
+        [1, 'Thu ngân sách', 'Lê Tuấn Anh', 'Tổ Quản lý thuế HKD số 1', 50, 40, '2026-09-30'],
+        [2, 'Thu ngân sách', 'Nguyễn Thị Hải Yến', 'Tổ Quản lý thuế HKD số 2', 60, 55, '2026-09-30'],
+      ]
+    });
+    const result = importWorkbook(source, { mode: 'theme', themeId: 'CD_THU' });
+    expect(result.scope).toBe('thematic');
+    expect(result.themeId).toBe('CD_THU');
+    expect(result.errors).toEqual([]);
+    expect(result.validRowCount).toBe(2);
+    expect(result.dataset?.workItems).toHaveLength(2);
+
+    const item1 = result.dataset?.workItems.find((w) => w.assigned === 50);
+    expect(item1?.teamId).toBe('HKD1');
+
+    const item2 = result.dataset?.workItems.find((w) => w.assigned === 60);
+    expect(item2?.teamId).toBe('HKD2');
+  });
+
+  it('mergeThematicDataset chỉ cập nhật các nhiệm vụ chuyên đề, giữ nguyên các nhiệm vụ khác', () => {
+    const current = structuredClone(seedDataset);
+    const baseCount = current.workItems.length;
+
+    // Incoming has an update for a specific officer in HKD1 for task 'THU'
+    const incoming = {
+      schemaVersion: 1 as const,
+      teams: current.teams,
+      officers: current.officers,
+      taskDefinitions: current.taskDefinitions,
+      workItems: [
+        {
+          id: 'TEST-WORK-1',
+          taskDefinitionId: 'THU',
+          teamId: 'HKD1',
+          officerId: current.officers[0].id,
+          assigned: 999,
+          completed: 888,
+          deadline: '2026-10-31',
+          status: 'in_progress' as const,
+          updatedAt: '2026-09-16T00:00:00.000Z',
+        }
+      ],
+      updatedAt: '2026-09-16',
+    };
+
+    const merged = mergeThematicDataset(current, incoming, ['THU', 'NVDTPC-BCNGAY']);
+    expect(merged.workItems.length).toBeGreaterThanOrEqual(baseCount);
+
+    const updated = merged.workItems.find(
+      (w) => w.teamId === 'HKD1' && w.officerId === current.officers[0].id && w.taskDefinitionId === 'THU'
+    );
+    expect(updated?.assigned).toBe(999);
+    expect(updated?.completed).toBe(888);
+
+    // Other tasks of that officer or other officers should remain unchanged
+    const otherTasks = merged.workItems.filter((w) => w.taskDefinitionId !== 'THU');
+    expect(otherTasks.length).toBeGreaterThan(0);
+  });
+});
+

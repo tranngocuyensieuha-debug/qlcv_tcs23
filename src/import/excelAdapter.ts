@@ -4,7 +4,7 @@ import { CANONICAL_TEAMS, seedDataset } from '../data/seedDataset';
 
 export type ImportIssueCode = 'missing' | 'invalid' | 'unknown-reference' | 'duplicate';
 export interface ImportIssue { sheet: string; row: number; column: string; value: unknown; code: ImportIssueCode; message: string }
-export interface ImportResult { dataset?: AppDataset; errors: ImportIssue[]; duplicateCount: number; validRowCount: number; scope: 'full' | 'team'; teamId?: string }
+export interface ImportResult { dataset?: AppDataset; errors: ImportIssue[]; duplicateCount: number; validRowCount: number; scope: 'full' | 'team' | 'thematic'; teamId?: string; themeId?: string }
 type RawRow = unknown[];
 interface SourceRow { sheet: string; rowNumber: number; raw: RawRow }
 interface Table { sheet: keyof typeof HEADERS; indexes: number[]; rows: SourceRow[] }
@@ -52,7 +52,7 @@ function validDate(value: string): boolean { const match = /^(\d{4})-(\d{2})-(\d
 function excelDate(value: unknown, date1904: boolean): string { if (typeof value !== 'number') return text(value); const parsed = XLSX.SSF.parse_date_code(value + (date1904 ? 1462 : 0)); return parsed ? `${parsed.y}-${String(parsed.m).padStart(2, '0')}-${String(parsed.d).padStart(2, '0')}` : text(value); }
 function workbookError(message: string): ImportResult { return { errors: [{ sheet: 'workbook', row: 1, column: 'A', value: '', code: 'invalid', message }], duplicateCount: 0, validRowCount: 0, scope: 'full' }; }
 
-export interface ImportWorkbookOptions { defaultTeamId?: string; availableTeams?: Team[]; currentTeams?: Team[] }
+export interface ImportWorkbookOptions { defaultTeamId?: string; availableTeams?: Team[]; currentTeams?: Team[]; mode?: 'full' | 'team' | 'theme' | 'master'; themeId?: string; currentOfficers?: Officer[]; currentTaskDefinitions?: TaskDefinition[] }
 export function importWorkbook(buffer: ArrayBuffer, options: ImportWorkbookOptions = {}): ImportResult {
   if (buffer.byteLength > MAX_IMPORT_BYTES) return workbookError(`Workbook vượt giới hạn ${MAX_IMPORT_BYTES} byte`);
   const signature = new Uint8Array(buffer, 0, Math.min(4, buffer.byteLength));
@@ -98,8 +98,9 @@ function importSummary(workbook: XLSX.WorkBook, date1904: boolean, options: Impo
   const rows = rowsOf(workbook, 'Du lieu'); const header = rows[0] ?? []; const task = header.findIndex((v) => normalize(v).includes('ten nhiem vu')); const officer = header.findIndex((v) => normalize(v).includes('can bo'));
   if (task < 0 && officer >= 0) return importWide(rows, officer, date1904, options); if (task < 0 || officer < 0) return failedSummary('Không nhận diện được cột nhiệm vụ/cán bộ');
   const assigned = header.findIndex((v) => normalize(v).includes('phai thuc hien')); const completed = header.findIndex((v) => normalize(v).includes('da thuc hien')); const deadline = header.findIndex((v) => normalize(v).includes('thoi han'));
+  const team = header.findIndex((v) => normalize(v).includes('to quan ly') || normalize(v) === 'to' || normalize(v) === 'ma to');
   const relevant = [task, officer, assigned, completed, deadline];
-  return buildSummary(rows.slice(1).map((raw, i) => ({ sheet: 'Du lieu', rowNumber: i + 2, raw })).filter((r) => relevant.some((index) => index >= 0 && text(r.raw[index]))), { task, officer, assigned, completed, deadline }, date1904, options);
+  return buildSummary(rows.slice(1).map((raw, i) => ({ sheet: 'Du lieu', rowNumber: i + 2, raw })).filter((r) => relevant.some((index) => index >= 0 && text(r.raw[index]))), { task, officer, assigned, completed, deadline, team }, date1904, options);
 }
 function importWide(rows: RawRow[], officer: number, date1904: boolean, options: ImportWorkbookOptions): ImportResult {
   const second = rows[1] ?? []; const groups: { taskName: string; assigned: number; completed: number; deadline: number }[] = []; let active = '';
@@ -108,19 +109,83 @@ function importWide(rows: RawRow[], officer: number, date1904: boolean, options:
   const source = rows.slice(2).map((raw, i) => ({ sheet: 'Du lieu', rowNumber: i + 3, raw })).filter((r) => text(r.raw[officer]) && normalize(r.raw[officer]) !== 'tong');
   return finalizeSummary(source.flatMap((row) => groups.map((g) => ({ source: row, taskName: g.taskName, officerName: text(row.raw[officer]), assigned: row.raw[g.assigned], completed: row.raw[g.completed], deadline: row.raw[g.deadline], columns: { ...g, task: g.assigned, officer } }))), date1904, options);
 }
-function buildSummary(rows: SourceRow[], indexes: { task: number; officer: number; assigned: number; completed: number; deadline: number }, date1904: boolean, options: ImportWorkbookOptions): ImportResult {
-  const errors: ImportIssue[] = []; for (const [name, index] of Object.entries(indexes)) if (index < 0) addIssue(errors, { sheet: 'Du lieu', rowNumber: 1 }, 0, '', 'missing', `Thiếu cột ${name}`); if (errors.length) return { errors, duplicateCount: 0, validRowCount: 0, scope: 'team', teamId: options.defaultTeamId ?? 'HKD1' };
-  return finalizeSummary(rows.map((source) => ({ source, taskName: text(source.raw[indexes.task]), officerName: text(source.raw[indexes.officer]), assigned: source.raw[indexes.assigned], completed: source.raw[indexes.completed], deadline: source.raw[indexes.deadline], columns: indexes })), date1904, options);
+function buildSummary(rows: SourceRow[], indexes: { task: number; officer: number; assigned: number; completed: number; deadline: number; team?: number }, date1904: boolean, options: ImportWorkbookOptions): ImportResult {
+  const errors: ImportIssue[] = []; for (const [name, index] of Object.entries(indexes)) if (index < 0 && name !== 'team') addIssue(errors, { sheet: 'Du lieu', rowNumber: 1 }, 0, '', 'missing', `Thiếu cột ${name}`); if (errors.length) return { errors, duplicateCount: 0, validRowCount: 0, scope: options.mode === 'theme' || options.themeId ? 'thematic' : 'team', teamId: options.defaultTeamId ?? 'HKD1', themeId: options.themeId };
+  return finalizeSummary(rows.map((source) => ({ source, taskName: text(source.raw[indexes.task]), officerName: text(source.raw[indexes.officer]), teamName: indexes.team !== undefined && indexes.team >= 0 ? text(source.raw[indexes.team]) : undefined, assigned: source.raw[indexes.assigned], completed: source.raw[indexes.completed], deadline: source.raw[indexes.deadline], columns: indexes })), date1904, options);
 }
-function finalizeSummary(items: { source: SourceRow; taskName: string; officerName: string; assigned: unknown; completed: unknown; deadline: unknown; columns: { task: number; officer: number; assigned: number; completed: number; deadline: number } }[], date1904: boolean, options: ImportWorkbookOptions): ImportResult {
+function finalizeSummary(items: { source: SourceRow; taskName: string; officerName: string; teamName?: string; assigned: unknown; completed: unknown; deadline: unknown; columns: { task: number; officer: number; assigned: number; completed: number; deadline: number; team?: number } }[], date1904: boolean, options: ImportWorkbookOptions): ImportResult {
   const errors: ImportIssue[] = []; const valid: typeof items = [];
   for (const item of items) { let ok = true; const assigned = parseNonNegative(item.assigned); const completed = parseNonNegative(item.completed); const deadline = excelDate(item.deadline, date1904);
     if (!item.taskName) { addIssue(errors, item.source, item.columns.task, '', 'missing', 'Thiếu tên nhiệm vụ'); ok = false; } if (!item.officerName) { addIssue(errors, item.source, item.columns.officer, '', 'missing', 'Thiếu cán bộ'); ok = false; }
     if (assigned === undefined) { addIssue(errors, item.source, item.columns.assigned, item.assigned, text(item.assigned) ? 'invalid' : 'missing', 'Phải thực hiện không hợp lệ'); ok = false; }
     if (completed === undefined || (assigned !== undefined && completed > assigned)) { addIssue(errors, item.source, item.columns.completed, item.completed, text(item.completed) ? 'invalid' : 'missing', 'Đã thực hiện không hợp lệ'); ok = false; }
     if (!deadline || !validDate(deadline)) { addIssue(errors, item.source, item.columns.deadline, item.deadline, deadline ? 'invalid' : 'missing', 'Thời hạn không hợp lệ'); ok = false; } if (ok) valid.push(item); }
-  if (errors.length) return { errors, duplicateCount: 0, validRowCount: valid.length, scope: 'team', teamId: options.defaultTeamId ?? 'HKD1' };
-  const suppliedTeams = options.availableTeams ?? options.currentTeams; const outputTeams = suppliedTeams ?? CANONICAL_TEAMS; const teamId = options.defaultTeamId ?? 'HKD1';
+  const isTheme = options.mode === 'theme' || Boolean(options.themeId);
+  if (errors.length) return { errors, duplicateCount: 0, validRowCount: valid.length, scope: isTheme ? 'thematic' : 'team', teamId: options.defaultTeamId ?? 'HKD1', themeId: options.themeId };
+  const suppliedTeams = options.availableTeams ?? options.currentTeams; const outputTeams = suppliedTeams ?? CANONICAL_TEAMS;
+
+  if (isTheme) {
+    const allOfficers = options.currentOfficers ?? seedDataset.officers;
+    const allTasks = options.currentTaskDefinitions ?? seedDataset.taskDefinitions;
+    const teamLookup = new Map(outputTeams.map((t) => [exactNormalized(t.id), t.id]));
+    outputTeams.forEach((t) => {
+      teamLookup.set(exactNormalized(t.name), t.id);
+      teamLookup.set(exactNormalized(t.shortName), t.id);
+    });
+
+    const officersMap = new Map<string, Officer>();
+    const tasksMap = new Map<string, TaskDefinition>();
+    const workItems: WorkItem[] = [];
+
+    valid.forEach((item) => {
+      const deadline = excelDate(item.deadline, date1904);
+      const parsedTeamId = item.teamName ? teamLookup.get(exactNormalized(item.teamName)) : undefined;
+
+      const matchedOfficer = allOfficers.find((o) => {
+        const nameOk = exactNormalized(o.name) === exactNormalized(item.officerName);
+        if (!nameOk) return false;
+        if (parsedTeamId) return o.teamId === parsedTeamId;
+        return true;
+      });
+
+      const officerTeamId = matchedOfficer?.teamId || parsedTeamId || options.defaultTeamId || 'HKD1';
+      const officerId = matchedOfficer?.id || stableId('officer', `${officerTeamId}:${exactNormalized(item.officerName)}`);
+
+      if (!officersMap.has(officerId)) {
+        officersMap.set(officerId, matchedOfficer || { id: officerId, name: item.officerName, title: 'Công chức', teamId: officerTeamId, area: 'Theo file nhập' });
+      }
+
+      const matchedTask = allTasks.find((t) => exactNormalized(t.name) === exactNormalized(item.taskName) || exactNormalized(t.id) === exactNormalized(item.taskName));
+      const taskDefId = matchedTask?.id || stableId('task', `${officerTeamId}:${exactNormalized(item.taskName)}:Chỉ tiêu:Số đã thực hiện:Theo file nhập`);
+
+      if (!tasksMap.has(taskDefId)) {
+        tasksMap.set(taskDefId, matchedTask || { id: taskDefId, name: item.taskName, category: 'Chuyên đề', unit: 'Chỉ tiêu', measurement: 'Số đã thực hiện', reportPeriod: 'Theo file nhập', applicableTeamIds: [officerTeamId] });
+      }
+
+      workItems.push({
+        id: stableId('work', `${officerTeamId}:${taskDefId}:${officerId}:${item.source.sheet}:${item.source.rowNumber}`),
+        taskDefinitionId: taskDefId,
+        teamId: officerTeamId,
+        officerId,
+        assigned: parseNonNegative(item.assigned)!,
+        completed: parseNonNegative(item.completed)!,
+        deadline,
+        status: 'in_progress',
+        updatedAt: `${deadline}T00:00:00.000Z`
+      });
+    });
+
+    return {
+      dataset: { schemaVersion: 1, teams: structuredClone(outputTeams), officers: Array.from(officersMap.values()), taskDefinitions: Array.from(tasksMap.values()), workItems, updatedAt: '1970-01-01T00:00:00.000Z' },
+      errors: [],
+      duplicateCount: 0,
+      validRowCount: valid.length,
+      scope: 'thematic',
+      themeId: options.themeId
+    };
+  }
+
+  const teamId = options.defaultTeamId ?? 'HKD1';
   if (!outputTeams.some((team) => team.id === teamId)) return { errors: [{ sheet: 'Du lieu', row: 1, column: 'A', value: teamId, code: 'unknown-reference', message: 'Tổ mặc định không tồn tại trong danh sách tổ hiện tại' }], duplicateCount: 0, validRowCount: 0, scope: 'team', teamId };
   const names = uniqueCanonical(valid.map((v) => v.officerName)); const taskNames = uniqueCanonical(valid.map((v) => v.taskName));
   const knownOfficers = new Map(seedDataset.officers.map((officer) => [exactNormalized(officer.name), officer]));

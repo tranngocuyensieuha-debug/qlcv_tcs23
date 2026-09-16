@@ -3,6 +3,8 @@ import type { TaskImportRow } from '../types';
 import { parseExcelFile, parseExcelFromUrl } from '../utils/importData';
 import {
   TEAM_TEMPLATE_LIST,
+  THEMATIC_TEMPLATE_LIST,
+  generateAndDownloadThematicTemplate,
   generateAndDownloadTeamTemplate,
   generateAndDownloadMasterTemplate
 } from '../utils/excelTemplates';
@@ -65,6 +67,7 @@ export default function DataImportPanel({ onImportRows }: DataImportPanelProps) 
   const [message, setMessage] = useState('');
   const [isLoading, setIsLoading] = useState(false);
   const [showTemplateModal, setShowTemplateModal] = useState(false);
+  const [modalTab, setModalTab] = useState<'theme' | 'team'>('theme');
 
   const applyRows = useCallback((rows: TaskImportRow[], source = 'dữ liệu') => {
     if (rows.length === 0) {
@@ -284,54 +287,131 @@ export default function DataImportPanel({ onImportRows }: DataImportPanelProps) 
               </div>
             </div>
 
-            {/* 8 Team Templates Grid */}
-            <div className="mt-5">
-              <h4 className="text-xs font-black uppercase tracking-wider text-slate-400">
-                Hoặc chọn tải file mẫu riêng cho từng tổ (8 Tổ chuyên trách):
-              </h4>
-              <div className="mt-3 grid grid-cols-1 gap-2.5 sm:grid-cols-2">
-                {TEAM_TEMPLATE_LIST.map((team) => (
-                  <div
-                    key={team.id}
-                    className="flex flex-col justify-between rounded-xl border border-slate-200 bg-slate-50/70 p-3.5 transition hover:border-blue-400 hover:bg-blue-50/40"
-                  >
-                    <div>
-                      <div className="flex items-center gap-2">
-                        <span className="text-xl">{team.icon}</span>
-                        <span className="text-sm font-bold text-slate-900">{team.shortName}</span>
-                      </div>
-                      <p className="mt-1 line-clamp-1 text-xs text-slate-600 font-medium" title={team.name}>
-                        {team.name}
-                      </p>
-                      <div className="mt-2 flex flex-wrap items-center gap-2 text-[11px] text-slate-500">
-                        <span className="rounded bg-white px-1.5 py-0.5 border border-slate-200 font-semibold">
-                          📌 {team.taskCount} nhiệm vụ
-                        </span>
-                        <span className="rounded bg-white px-1.5 py-0.5 border border-slate-200 font-semibold">
-                          👤 {team.staffCount} cán bộ
-                        </span>
-                      </div>
-                      <p className="mt-1 text-[11px] text-slate-500 italic">
-                        Phụ trách: <strong>{team.leaderName}</strong>
-                      </p>
-                    </div>
-
-                    <button
-                      type="button"
-                      onClick={() => {
-                        generateAndDownloadTeamTemplate(team.code);
-                        setShowTemplateModal(false);
-                      }}
-                      className="mt-3 w-full rounded-lg py-1.5 text-xs font-bold text-white shadow-sm transition hover:opacity-90 cursor-pointer flex items-center justify-center gap-1.5"
-                      style={{ backgroundColor: team.badgeColor }}
-                    >
-                      <span>⬇️</span>
-                      <span>Tải file mẫu {team.shortName}</span>
-                    </button>
-                  </div>
-                ))}
-              </div>
+            {/* Tabs selection in modal */}
+            <div className="mt-5 flex gap-2 rounded-xl bg-slate-100 p-1">
+              <button
+                type="button"
+                onClick={() => setModalTab('theme')}
+                className={`flex-1 rounded-lg py-2 text-xs font-black transition cursor-pointer flex items-center justify-center gap-1.5 ${
+                  modalTab === 'theme' ? 'bg-white text-slate-900 shadow-sm' : 'text-slate-500 hover:text-slate-800'
+                }`}
+              >
+                <span>📊</span>
+                <span>Mẫu Chuyên Đề Chung (5 Chuyên đề đa tổ)</span>
+              </button>
+              <button
+                type="button"
+                onClick={() => setModalTab('team')}
+                className={`flex-1 rounded-lg py-2 text-xs font-black transition cursor-pointer flex items-center justify-center gap-1.5 ${
+                  modalTab === 'team' ? 'bg-white text-slate-900 shadow-sm' : 'text-slate-500 hover:text-slate-800'
+                }`}
+              >
+                <span>🏢</span>
+                <span>Mẫu Theo Tổ Chuyên Trách (8 Tổ riêng biệt)</span>
+              </button>
             </div>
+
+            {/* TAB 1: 5 THEMATIC TEMPLATES */}
+            {modalTab === 'theme' && (
+              <div className="mt-4">
+                <p className="text-xs text-slate-500 font-medium">
+                  File mẫu chuyên đề bao gồm các nhiệm vụ chung của ngành (nguồn TMS, QLN, HĐĐT...) được điền sẵn danh sách cán bộ của tất cả các tổ liên quan:
+                </p>
+                <div className="mt-3 grid grid-cols-1 gap-2.5 sm:grid-cols-2">
+                  {THEMATIC_TEMPLATE_LIST.map((theme) => (
+                    <div
+                      key={theme.id}
+                      className="flex flex-col justify-between rounded-xl border border-slate-200 bg-slate-50/70 p-3.5 transition hover:border-emerald-400 hover:bg-emerald-50/40"
+                    >
+                      <div>
+                        <div className="flex items-center gap-2">
+                          <span className="text-xl">{theme.icon}</span>
+                          <span className="text-sm font-bold text-slate-900">{theme.shortName}</span>
+                        </div>
+                        <p className="mt-1 line-clamp-1 text-xs text-slate-600 font-medium" title={theme.name}>
+                          {theme.name}
+                        </p>
+                        <div className="mt-2 flex flex-wrap items-center gap-2 text-[11px] text-slate-500">
+                          <span className="rounded bg-white px-1.5 py-0.5 border border-slate-200 font-semibold text-emerald-700">
+                            📌 {theme.taskIds.length} nhiệm vụ
+                          </span>
+                          <span className="rounded bg-white px-1.5 py-0.5 border border-slate-200 font-semibold text-blue-700">
+                            🏢 {theme.applicableTeamIds.length} tổ áp dụng
+                          </span>
+                        </div>
+                        <p className="mt-1 text-[11px] text-slate-500 italic truncate" title={theme.sourceApp}>
+                          Nguồn: <strong>{theme.sourceApp}</strong>
+                        </p>
+                      </div>
+
+                      <button
+                        type="button"
+                        onClick={() => {
+                          generateAndDownloadThematicTemplate(theme.id);
+                          setShowTemplateModal(false);
+                        }}
+                        className="mt-3 w-full rounded-lg py-1.5 text-xs font-bold text-white shadow-sm transition hover:opacity-90 cursor-pointer flex items-center justify-center gap-1.5"
+                        style={{ backgroundColor: theme.badgeColor }}
+                      >
+                        <span>⬇️</span>
+                        <span>Tải mẫu CĐ {theme.shortName}</span>
+                      </button>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            )}
+
+            {/* TAB 2: 8 TEAM TEMPLATES */}
+            {modalTab === 'team' && (
+              <div className="mt-4">
+                <p className="text-xs text-slate-500 font-medium">
+                  File mẫu riêng cho từng tổ chỉ bao gồm các nhiệm vụ và cán bộ thuộc tổ đó:
+                </p>
+                <div className="mt-3 grid grid-cols-1 gap-2.5 sm:grid-cols-2">
+                  {TEAM_TEMPLATE_LIST.map((team) => (
+                    <div
+                      key={team.id}
+                      className="flex flex-col justify-between rounded-xl border border-slate-200 bg-slate-50/70 p-3.5 transition hover:border-blue-400 hover:bg-blue-50/40"
+                    >
+                      <div>
+                        <div className="flex items-center gap-2">
+                          <span className="text-xl">{team.icon}</span>
+                          <span className="text-sm font-bold text-slate-900">{team.shortName}</span>
+                        </div>
+                        <p className="mt-1 line-clamp-1 text-xs text-slate-600 font-medium" title={team.name}>
+                          {team.name}
+                        </p>
+                        <div className="mt-2 flex flex-wrap items-center gap-2 text-[11px] text-slate-500">
+                          <span className="rounded bg-white px-1.5 py-0.5 border border-slate-200 font-semibold">
+                            📌 {team.taskCount} nhiệm vụ
+                          </span>
+                          <span className="rounded bg-white px-1.5 py-0.5 border border-slate-200 font-semibold">
+                            👤 {team.staffCount} cán bộ
+                          </span>
+                        </div>
+                        <p className="mt-1 text-[11px] text-slate-500 italic">
+                          Phụ trách: <strong>{team.leaderName}</strong>
+                        </p>
+                      </div>
+
+                      <button
+                        type="button"
+                        onClick={() => {
+                          generateAndDownloadTeamTemplate(team.code);
+                          setShowTemplateModal(false);
+                        }}
+                        className="mt-3 w-full rounded-lg py-1.5 text-xs font-bold text-white shadow-sm transition hover:opacity-90 cursor-pointer flex items-center justify-center gap-1.5"
+                        style={{ backgroundColor: team.badgeColor }}
+                      >
+                        <span>⬇️</span>
+                        <span>Tải file mẫu {team.shortName}</span>
+                      </button>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            )}
 
             <div className="mt-5 flex items-center justify-between border-t border-slate-200 pt-3 text-xs text-slate-500">
               <span>💡 Sau khi nhập số liệu, chỉ cần kéo thả file vào ô bên ngoài để cập nhật.</span>
