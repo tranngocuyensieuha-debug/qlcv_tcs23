@@ -1,0 +1,14 @@
+import XLSX from 'xlsx';
+import { writeFileSync } from 'node:fs';
+import { join, dirname } from 'node:path';
+import { fileURLToPath } from 'node:url';
+const root = join(dirname(fileURLToPath(import.meta.url)), '..');
+const workbook = XLSX.readFile(join(root, '..', '..', '..', 'file du lieu.xlsx'));
+const rows = XLSX.utils.sheet_to_json(workbook.Sheets['Du lieu'], { header: 1, defval: '', raw: true });
+const columns = rows[1].flatMap((value, index) => String(value).includes('Số phải thực hiện') ? [index] : []);
+if (rows[0]?.[0] !== 'Tên cán bộ' || columns.length !== 13) throw new Error('Workbook nguồn sai header hoặc không đủ 13 nhóm nhiệm vụ.');
+const names = rows.slice(2).filter((row) => row[0] && String(row[0]).toLowerCase() !== 'tổng').map((row) => row[0]);
+const tasks = columns.map((index) => rows[0][index]);
+const metrics = rows.slice(2).filter((row) => row[0] && String(row[0]).toLowerCase() !== 'tổng').map((row) => columns.map((index) => [row[index], row[index + 1], row[index + 2]]));
+if (names.length !== 14 || metrics.some((row) => row.length !== 13)) throw new Error('Workbook nguồn phải có ma trận 14 cán bộ x 13 nhiệm vụ.');
+writeFileSync(join(root, 'src', 'data', 'seedSource.ts'), `// Generated from file du lieu.xlsx; run node scripts/generate-seed-source.mjs\nexport const SOURCE_OFFICERS = ${JSON.stringify(names)} as const;\nexport const SOURCE_TASKS = ${JSON.stringify(tasks)} as const;\nexport const SOURCE_METRICS = ${JSON.stringify(metrics)} as const;\n`);

@@ -1,0 +1,706 @@
+================================================================================
+TARGET DIRECTORY: d:\TCS23_QLCV-20260826T011945Z-1-001\TCS23_QLCV
+OUTPUT FILE: d:\TCS23_QLCV-20260826T011945Z-1-001\TCS23_QLCV\quan ly cong viec\quan ly cong viec\app\scripts\inspect_monthly_output.txt
+================================================================================
+
+1. INSPECTING DOCX: d:\TCS23_QLCV-20260826T011945Z-1-001\TCS23_QLCV\TCS23 - CV Chỉ tiêu.docx
+
+--- NỘI DUNG VĂN BẢN (PARAGRAPHS & TABLES) ---
+P: THUẾ THÀNH PHỐ HÀ NỘI
+P: THUẾ CƠ SỞ 23 TP HÀ NỘI
+P: PHỤ LỤC PHÂN CÔNG THỰC HIỆN BIỂU MẪU ĐÁNH GIÁ ĐỊNH LƯỢNG CÔNG TÁC QUẢN LÝ THUẾ
+P: (Kèm theo CV số                 /TCS23-HCTH ngày 09 tháng 9 năm 2026 của Thuế CS 23 TP Hà Nội)
+ROW: STT | Chỉ tiêu đánh giá | Cách xác định chỉ tiêu | Thời gian | Đơn vị đầu mối | Đơn vị phối hợp
+P: STT
+P: Chỉ tiêu đánh giá
+P: Cách xác định chỉ tiêu
+P: Thời gian
+P: Đơn vị
+P: đầu mối
+P: Đơn vị
+P: phối hợp
+ROW:  | Thu ngân sách nhà nước | - Kết quả thực hiện dự toán so với DTPL- Tỷ lệ thực thu tháng/ước thu tháng (chênh lệch 3%)- Tỷ lệ thu NSNN tăng giảm so với cùng kỳ | Lúc 15h00 Thứ 6 hằng tuần | Tổ Nghiệp vụ, Dự toán, PC | Các Tổ thực hiện dự toán thu
+P: Thu ngân sách nhà nước
+P: - Kết quả thực hiện dự toán so với DTPL
+P: - Tỷ lệ thực thu tháng/ước thu tháng (chênh lệch 3%)
+P: - Tỷ lệ thu NSNN tăng giảm so với cùng kỳ
+P: Lúc 15h00
+P: Thứ 6 hằng tuần
+P: Tổ Nghiệp vụ, Dự toán, PC
+P: Các Tổ
+P: thực hiện
+P: dự toán thu
+ROW:  | Kiểm tra thuế | Công tác kiểm tra tại bàn- Tỷ lệ hoàn thành kế hoạch kiểm tra- Tỷ lệ hoàn thành được giao theo KPI/tháng- Đóng mã giải thể (Không bao gồm đã chuyển kiểm tra tại trụ sở NNT) phát sinh mới- Đóng mã giải thể theo gói của Phòng QLDN3 |  | Tổ QL, hỗ trợ DN số 1, 2 | 
+P: Kiểm tra thuế
+P: Công tác kiểm tra tại bàn
+P: - Tỷ lệ hoàn thành kế hoạch kiểm tra
+P: - Tỷ lệ hoàn thành được giao theo KPI/tháng
+P: - Đóng mã giải thể (Không bao gồm đã chuyển kiểm tra tại trụ sở NNT) phát sinh mới
+P: - Đóng mã giải thể theo gói của Phòng QLDN3
+P: Tổ QL, hỗ trợ DN số 1, 2
+ROW:  |  | Công tác kiểm tra tại trụ sở NNT- Tỷ lệ hoàn thành kế hoạch kiểm tra; - Tỷ lệ hoàn thành kế hoạch kiểm tra đích danh- Số thu bình quân 01 cuộc kiểm tra- Kiểm tra đóng mã giải thể- Tỷ lệ số nộp NS qua kiểm tra gồm truy thu, truy hoàn, ấn định và tiền phạt.-  Tỷ lệ giải quyết đơn khiếu nại phát sinh sau kiểm tra. | Lúc 15h00 Thứ 5 hằng tuần | Tổ kiểm tra | 
+P: Công tác kiểm tra tại trụ sở NNT
+P: - Tỷ lệ hoàn thành kế hoạch kiểm tra;
+P: - Tỷ lệ hoàn thành kế hoạch kiểm tra đích danh
+P: - Số thu bình quân 01 cuộc kiểm tra
+P: - Kiểm tra đóng mã giải thể
+P: - Tỷ lệ số nộp NS qua kiểm tra gồm truy thu, truy hoàn, ấn định và tiền phạt.
+P: -  Tỷ lệ giải quyết đơn khiếu nại phát sinh sau kiểm tra.
+P: Lúc 15h00
+P: Thứ 5 hằng tuần
+P: Tổ kiểm tra
+ROW:  | Quản lý nợ thuế | - Tỷ lệ tăng, giảm nợ so với 31/12/2025- Tỷ lệ tăng, giảm nợ so với tháng trước liền kề- Tỷ lệ % Nợ khả năng thu/Tổng thu NSNN- Tỷ lệ % Tổng nợ thuế, phí/Tổng thu NSNN (đến thời điểm hiện tại). Giao dưới 5%- Tỷ lệ thu nợ so với KD giao- Tỷ lệ số lượng NNT đã thực hiện cưỡng chế/Số lượng phải thực hiện cưỡng chế (1 tr đồng trở lên)- Tỷ lệ số tiền đã thực hiện cưỡng chế/Số tiền phải thực hiện cưỡng chế- Tỷ lệ số lượng NNT đã thực hiện tạm hoãn xuất cảnh/Số lượng phải thực hiện THXC Trong đó: Trạng thái 00, 03Trạng thái 06- Tỷ lệ số tiền đã thực hiện tạm hoãn xuất cảnh/Số tiền phải thực hiện THXC Trong đó: Trạng thái 00, 03Trạng thái 06 | Lúc 15h00 Thứ 5 hằng tuần | Tổ Nghiệp vụ, Dự toán, PC | Các Tổ quản lý
+P: Quản lý nợ thuế
+P: - Tỷ lệ tăng, giảm nợ so với 31/12/2025
+P: - Tỷ lệ tăng, giảm nợ so với tháng trước liền kề
+P: - Tỷ lệ % Nợ khả năng thu/Tổng thu NSNN
+P: - Tỷ lệ % Tổng nợ thuế, phí/Tổng thu NSNN (đến thời điểm hiện tại). Giao dưới 5%
+P: - Tỷ lệ thu nợ so với KD giao
+P: - Tỷ lệ số lượng NNT đã thực hiện cưỡng chế/Số lượng phải thực hiện cưỡng chế (1 tr đồng trở lên)
+P: - Tỷ lệ số tiền đã thực hiện cưỡng chế/Số tiền phải thực hiện cưỡng chế
+P: - Tỷ lệ số lượng NNT đã thực hiện tạm hoãn xuất cảnh/Số lượng phải thực hiện THXC
+P: Trong đó:
+P: Trạng thái 00, 03
+P: Trạng thái 06
+P: - Tỷ lệ số tiền đã thực hiện tạm hoãn xuất cảnh/Số tiền phải thực hiện THXC
+P: Trong đó:
+P: Trạng thái 00, 03
+P: Trạng thái 06
+P: Lúc 15h00
+P: Thứ 5 hằng tuần
+P: Tổ Nghiệp vụ, Dự toán, PC
+P: Các Tổ quản lý
+ROW:  | Giải quyết hồ sơ hoàn thuế giá trị gia tăng | - Tỷ lệ hoàn thành hồ sơ đề nghị hoàn bằng phương thức điện tử; Trong đó: + Số lượng hồ sơ đề nghị hoàn lũy kế năm: + Số tiền:Số hồ sơ đã giải quyết hoàn trước+ Số hồ sơ hoàn lũy kế năm: + Số tiền:Số hồ sơ giải quyết quá hạn: 01 hồ sơ- Tỷ lệ hồ sơ hoàn chuyển kiểm tra trước hoàn (giải trình rõ hồ sơ hoàn lần đầu, hs có rủi ro) | Lúc 15h00 Thứ 5 hằng tuần | Tổ QL, hỗ trợ DN số 2 | Tổ QLDN số 1, 2, Tổ Ktra
+P: Giải quyết hồ sơ hoàn thuế giá trị gia tăng
+P: - Tỷ lệ hoàn thành hồ sơ đề nghị hoàn bằng phương thức điện tử; Trong đó:
+P: + Số lượng hồ sơ đề nghị hoàn lũy kế năm:
+P: + Số tiền:
+P: Số hồ sơ đã giải quyết hoàn trước
+P: + Số hồ sơ hoàn lũy kế năm:
+P: + Số tiền:
+P: Số hồ sơ giải quyết quá hạn: 01 hồ sơ
+P: - Tỷ lệ hồ sơ hoàn chuyển kiểm tra trước hoàn (giải trình rõ hồ sơ hoàn lần đầu, hs có rủi ro)
+P: Lúc 15h00
+P: Thứ 5 hằng tuần
+P: Tổ QL, hỗ trợ DN số 2
+P: Tổ QLDN số 1, 2, Tổ Ktra
+ROW:  | Hoàn thuế thu nhập cá nhân tự động | - Tỷ lệ hồ sơ đã ban hành Quyết định, Lệnh hoàn trên số hồ sơ đủ điều kiện hoàn tự động, tính theo số lượng hồ sơ và theo số tiền.- Tỷ lệ hoàn thành gói TNCN nhiều nguồn 2025 | Lúc 15h00 Thứ 5 hằng tuần | Tổ QLDN số 2 | Tổ QLDN số 1, 2, Tổ CNKD 1,2
+P: Hoàn thuế thu nhập cá nhân tự động
+P: - Tỷ lệ hồ sơ đã ban hành Quyết định, Lệnh hoàn trên số hồ sơ đủ điều kiện hoàn tự động, tính theo số lượng hồ sơ và theo số tiền.
+P: - Tỷ lệ hoàn thành gói TNCN nhiều nguồn 2025
+P: Lúc 15h00
+P: Thứ 5 hằng tuần
+P: Tổ QLDN số 2
+P: Tổ QLDN số 1, 2, Tổ CNKD 1,2
+ROW:  | Hóa đơn điện tử có mã, khởi tạo từ máy tính tiền của HKD | - Tỷ lệ hộ kinh doanh đã sử dụng trên tổng số hộ kinh doanh đã đăng ký và đang hoạt động. | Lúc 15h00 Thứ 5 hằng tuần | Tổ QL, hỗ trợ cá nhân, HKD số 1 | 
+P: Hóa đơn điện tử có mã, khởi tạo từ máy tính tiền của HKD
+P: - Tỷ lệ hộ kinh doanh đã sử dụng trên tổng số hộ kinh doanh đã đăng ký và đang hoạt động.
+P: Lúc 15h00
+P: Thứ 5 hằng tuần
+P: Tổ QL, hỗ trợ cá nhân, HKD số 1
+ROW:  | Quản lý hộ, cá nhân kinh doanh | 1. Tỷ lệ thực hiện nhiệm vụ thu so với DTPL.2. Công tác quản lý đối tượng3. Công tác kê khai+ Công tác nộp tờ khai đúng hạn + Đánh giá chất lượng kê khai+ Công tác thông báo số tài khoản/ví điện tử 4. Hóa đơn điện tử+ Tiến độ đăng ký hóa đơn điện tử + Chất lượng sử dụng HĐĐT 5. Công tác kiểm tra 6. Công tác khai thác dữ liệu và chống thất thu TMĐT + Gói dữ liệu vận chuyển (GHTK) danh sách có doanh thu trên 1 tỷ:+ Gói dữ liệu khai thác các nhà sáng tạo nội dung trên nền tảng Tiktok có lượng người theo dõi lớn + Gói dữ liệu kinh doanh TMĐT theo Công văn 3049/CT-TMĐT ngày 16/09/2025+ Gói 3 1577:7. Công tác chuyển đổi lên DN | Lúc 15h00 Thứ 5 hằng tuần | Tổ QL, hỗ trợ cá nhân, HKD số 1 | 
+P: Quản lý hộ, cá nhân kinh doanh
+P: 1. Tỷ lệ thực hiện nhiệm vụ thu so với DTPL.
+P: 2. Công tác quản lý đối tượng
+P: 3. Công tác kê khai
+P: + Công tác nộp tờ khai đúng hạn
+P: + Đánh giá chất lượng kê khai
+P: + Công tác thông báo số tài khoản/ví điện tử
+P: 4. Hóa đơn điện tử
+P: + Tiến độ đăng ký hóa đơn điện tử
+P: + Chất lượng sử dụng HĐĐT
+P: 5. Công tác kiểm tra
+P: 6. Công tác khai thác dữ liệu và chống thất thu TMĐT
+P: + Gói dữ liệu vận chuyển (GHTK) danh sách có doanh thu trên 1 tỷ:
+P: + Gói dữ liệu khai thác các nhà sáng tạo nội dung trên nền tảng Tiktok có lượng người theo dõi lớn
+P: + Gói dữ liệu kinh doanh TMĐT theo Công văn 3049/CT-TMĐT ngày 16/09/2025
+P: + Gói 3 1577:
+P: 7. Công tác chuyển đổi lên DN
+P: Lúc 15h00
+P: Thứ 5 hằng tuần
+P: Tổ QL, hỗ trợ cá nhân, HKD số 1
+ROW:  | Giải quyết TTHC | Tỷ lệ hồ sơ được giải quyết đúng hạn. | Lúc 15h00 Thứ 5 hằng tuần | Tổ HCTH | Các Tổ liên quan
+P: Giải quyết TTHC
+P: Tỷ lệ hồ sơ được giải quyết đúng hạn.
+P: Lúc 15h00
+P: Thứ 5 hằng tuần
+P: Tổ HCTH
+P: Các Tổ liên quan
+ROW:  | Xử lý phản ánh, kiến nghị trên Cổng DVCQG và trả lời chính sách thuế trên cổng TTĐT BTC | Xử lý phản ánh, kiến nghị trên Cổng DVCQG và Thuế điện tử |  | Tổ QLDN số 1, 2, | Các Tổ liên quan
+P: Xử lý phản ánh, kiến nghị trên Cổng DVCQG và trả lời chính sách thuế trên cổng TTĐT BTC
+P: Xử lý phản ánh, kiến nghị trên Cổng DVCQG và Thuế điện tử
+P: Tổ QLDN số 1, 2,
+P: Các Tổ liên quan
+ROW:  |  | Tỷ lệ phản ánh, kiến nghị được xử lý đúng hạn và tỷ lệ câu hỏi chính sách thuế được trả lời đúng hạn. | Lúc 15h00 Thứ 5 hằng tuần | Tổ HCTH | 
+P: Tỷ lệ phản ánh, kiến nghị được xử lý đúng hạn và tỷ lệ câu hỏi chính sách thuế được trả lời đúng hạn.
+P: Lúc 15h00
+P: Thứ 5 hằng tuần
+P: Tổ HCTH
+ROW:  | Kiểm tra nội bộ; giải quyết khiếu nại, tố cáo; phòng, chống tham nhũng | - Tỷ lệ thực hiện KH KTNB năm- Kiểm tra chuyên đề- Tỷ lệ đơn thư được giải quyết đúng hạn.- Tỷ lệ đơn thư được giải quyết quá hạn. | Lúc 15h00 Thứ 5 hằng tuần | Tổ kiểm tra | 
+P: Kiểm tra nội bộ; giải quyết khiếu nại, tố cáo; phòng, chống tham nhũng
+P: - Tỷ lệ thực hiện KH KTNB năm
+P: - Kiểm tra chuyên đề
+P: - Tỷ lệ đơn thư được giải quyết đúng hạn.
+P: - Tỷ lệ đơn thư được giải quyết quá hạn.
+P: Lúc 15h00
+P: Thứ 5 hằng tuần
+P: Tổ kiểm tra
+ROW:  | Chiến dịch Làm sạch mã số thuế | Tỷ lệ giải quyết hồ sơ giải thể, chấm dứt hoạt động/trên tổng số hồ sơ phải giải quyết (gồm hồ sơ tồn tại 31/12 năm trước chuyển sang và hồ sơ tiếp nhận mới trong năm). Trong đó: | Lúc 15h00 Thứ 5 hằng tuần | Tổ QLDN số 1, Tổ CNKD1 | Tổ QL, hỗ trợ DN số 2,Tổ HTCNKD2
+P: Chiến dịch Làm sạch mã số thuế
+P: Tỷ lệ giải quyết hồ sơ giải thể, chấm dứt hoạt động/trên tổng số hồ sơ phải giải quyết (gồm hồ sơ tồn tại 31/12 năm trước chuyển sang và hồ sơ tiếp nhận mới trong năm). Trong đó:
+P: Lúc 15h00
+P: Thứ 5 hằng tuần
+P: Tổ QLDN số 1, Tổ CNKD1
+P: Tổ QL, hỗ trợ DN số 2,
+P: Tổ HTCNKD2
+ROW:  |  | Khối DN: Tỷ lệ hoàn thành 35% KPI năm 2026+ Trạng thái 03+ Trạng thái 06 |  |  | 
+P: Khối DN: Tỷ lệ hoàn thành 35% KPI năm 2026
+P: + Trạng thái 03
+P: + Trạng thái 06
+ROW:  |  | Khối HKD: Tỷ lệ hoàn thành 35% KPI năm 2026+ Trạng thái 03+ Trạng thái 06 |  |  | 
+P: Khối HKD: Tỷ lệ hoàn thành 35% KPI năm 2026
+P: + Trạng thái 03
+P: + Trạng thái 06
+ROW:  | Tiến độ giải ngân | Tỷ lệ giải ngân kinh phí chi thường xuyên | Lúc 15h00 Thứ 5 hằng tuần | Tổ HCTH | Báo cáo LĐ
+P: Tiến độ giải ngân
+P: Tỷ lệ giải ngân kinh phí chi thường xuyên
+P: Lúc 15h00
+P: Thứ 5 hằng tuần
+P: Tổ HCTH
+P: Báo cáo LĐ
+ROW:  | Công tác cán bộ | Tỷ lệ thực hiện kế hoạch đào tạo, bồi dưỡng; tỷ lệ luân chuyển, điều động, chuyển đổi vị trí công tác và kết quả chấp hành kỷ luật, kỷ cương công vụ. | Lúc 15h00 Thứ 5 hằng tuần | Tổ HCTH | Báo cáo LĐ
+P: Công tác cán bộ
+P: Tỷ lệ thực hiện kế hoạch đào tạo, bồi dưỡng; tỷ lệ luân chuyển, điều động, chuyển đổi vị trí công tác và kết quả chấp hành kỷ luật, kỷ cương công vụ.
+P: Lúc 15h00
+P: Thứ 5 hằng tuần
+P: Tổ HCTH
+P: Báo cáo LĐ
+ROW:  | Quy mô đối tượng quản lý | Số doanh nghiệp, tổ chức, hộ kinh doanh, cá nhân kinh doanh; mã phi nông nghiệp có phát sinh nộp thuế đang quản lý. Chỉ tiêu này là dữ liệu nền phục vụ phân tích quy mô, phân nhóm địa phương để so sánh trên cùng mặt bằng. | Lúc 15h00 Thứ 5 hằng tuần | Tổ Nghiệp vụ, Dự toán, PC | 
+P: Quy mô đối tượng quản lý
+P: Số doanh nghiệp, tổ chức, hộ kinh doanh, cá nhân kinh doanh; mã phi nông nghiệp có phát sinh nộp thuế đang quản lý. Chỉ tiêu này là dữ liệu nền phục vụ phân tích quy mô, phân nhóm địa phương để so sánh trên cùng mặt bằng.
+P: Lúc 15h00
+P: Thứ 5 hằng tuần
+P: Tổ Nghiệp vụ, Dự toán, PC
+ROW:  | Sự hài lòng của người nộp thuế | - Mẫu số 02: Tổng số lượt đánh giá: 326 lượt; chỉ số hài lòng chung: 97,8%- Mẫu số 03: Tổng số lượt đánh giá: 97 lượt; chỉ số hài lòng chung: 92,6%- Mẫu số 04: Tổng số lượt đánh giá: 03 lượt; chỉ số hài lòng chung: 100%- Mẫu số 05: Tổng số lượt đánh giá: 0 lượt | Lúc 15h00 Thứ 5 hằng tuần | Tổ HCTH | Tổ QLDN 1, Tổ QL HKD 1 đầu mối phối hợp đánh giá
+P: Sự hài lòng của người nộp thuế
+P: - Mẫu số 02: Tổng số lượt đánh giá: 326 lượt; chỉ số hài lòng chung: 97,8%
+P: - Mẫu số 03: Tổng số lượt đánh giá: 97 lượt; chỉ số hài lòng chung: 92,6%
+P: - Mẫu số 04: Tổng số lượt đánh giá: 03 lượt; chỉ số hài lòng chung: 100%
+P: - Mẫu số 05: Tổng số lượt đánh giá: 0 lượt
+P: Lúc 15h00
+P: Thứ 5 hằng tuần
+P: Tổ HCTH
+P: Tổ QLDN 1,
+P: Tổ QL HKD 1 đầu mối phối hợp đánh giá
+ROW:  | Sử dụng ứng dụng eTax Mobile | 1. Hộ KD- Tỷ lệ đăng ký TK giao dịch điện tử- Tỷ lệ đã cài đặt Etax - Tỷ lệ đã liên kết ngân hàng- Tỷ lệ có giao dịch điện tử2. Thuế sử dụng đất phi nông nghiệp- Tỷ lệ đăng ký TK giao dịch điện tử- Tỷ lệ đã cài đặt Etax - Tỷ lệ đã liên kết ngân hàng- Tỷ lệ có giao dịch điện tử3. Nhóm cá nhân có thu nhập từ tiền lương, tiền công- Tỷ lệ đăng ký TK giao dịch điện tử- Tỷ lệ đã cài đặt Etax - Tỷ lệ đã liên kết ngân hàng- Tỷ lệ có giao dịch điện tử | Lúc 15h00 Thứ 5 hằng tuần | Tổ QL các khoản thu khác; Tổ QLDN 1,2; Tổ QLHKD số 1,2 | 
+P: Sử dụng ứng dụng eTax Mobile
+P: 1. Hộ KD
+P: - Tỷ lệ đăng ký TK giao dịch điện tử
+P: - Tỷ lệ đã cài đặt Etax
+P: - Tỷ lệ đã liên kết ngân hàng
+P: - Tỷ lệ có giao dịch điện tử
+P: 2. Thuế sử dụng đất phi nông nghiệp
+P: - Tỷ lệ đăng ký TK giao dịch điện tử
+P: - Tỷ lệ đã cài đặt Etax
+P: - Tỷ lệ đã liên kết ngân hàng
+P: - Tỷ lệ có giao dịch điện tử
+P: 3. Nhóm cá nhân có thu nhập từ tiền lương, tiền công
+P: - Tỷ lệ đăng ký TK giao dịch điện tử
+P: - Tỷ lệ đã cài đặt Etax
+P: - Tỷ lệ đã liên kết ngân hàng
+P: - Tỷ lệ có giao dịch điện tử
+P: Lúc 15h00
+P: Thứ 5 hằng tuần
+P: Tổ QL các khoản thu khác;
+P: Tổ QLDN 1,2;
+P: Tổ QLHKD số 1,2
+ROW:  | Xử lý rủi ro trên ứng dụng TPR | Kết quả xử lý trên ứng dụng TPR |  | Tổ QL, hỗ trợ DN số 2 | 
+P: Xử lý rủi ro trên ứng dụng TPR
+P: Kết quả xử lý trên ứng dụng TPR
+P: Tổ QL, hỗ trợ DN số 2
+ROW:  | Xác minh hóa đơn | Kết quả xử lý |  | Tổ QL, hỗ trợ DN số 2 | 
+P: Xác minh hóa đơn
+P: Kết quả xử lý
+P: Tổ QL, hỗ trợ DN số 2
+ROW:  | Hệ số K | Kết quả xử lý |  | Tổ QL, hỗ trợ DN số 2 | 
+P: Hệ số K
+P: Kết quả xử lý
+P: Tổ QL, hỗ trợ DN số 2
+ROW:  | Xử phạt VPHC | Kết quả xử lý |  | Tổ QL, hỗ trợ DN số 2 | 
+P: Xử phạt VPHC
+P: Kết quả xử lý
+P: Tổ QL, hỗ trợ DN số 2
+
+2. INSPECTING XLSX: d:\TCS23_QLCV-20260826T011945Z-1-001\TCS23_QLCV\Bộ tiêu chí.xlsx
+Sheet names: ['foxz', '0.Bộ tiêu chí đánh giá', 'I. Khối TCS', 'II. Khối QLDN', 'III. Khối Ktra', '1.Phòng NVDTPC', '2.Văn phòng', '3. Phòng QLDN2', '4. Phòng QLDN3', '5. Phòng QLDN5', '6.1. Phòng CNTK', '7. Phòng Ktr1', '8. Phòng Ktr3']
+
+--- SHEET: foxz (Rows: 1, Cols: 1) ---
+
+--- SHEET: 0.Bộ tiêu chí đánh giá (Rows: 38, Cols: 9) ---
+R01: STT | Lĩnh vực | Chỉ tiêu | Phòng đánh giá | Công thức | Kỳ báo cáo | Tính điểm | Đơn vị được đánh giá | Ghi chú
+R02: 1 | Công tác thu NSNN | Tỷ lệ số thực thu NSNN | Phòng NVDTPC | Số thực thu lũy kế/Số DTPL | Tuần/Tháng | - Cao hơn từ 0-5%: Cộng 0,5 điểm
+- Cao hơn 5%: Cộng 1 điểm
+- Thấp từ 5%-0%: 0 điểm
+- Thấp từ 5%-10%: Trừ 0,5 điểm
+- Thấp dưới 10%: Trừ 1 điểm | - Các phòng QLDN
+- Các Thuế cơ sở | 
+R03: 2 |  | Tỷ lệ thực thu tháng/ước thu tháng | Phòng NVDTPC | Số thực thu tháng/Số ước thu tháng | Tháng | - Chênh lệch tuyệt đối từ 0-5%: Cộng 1 điểm
+- Chênh lệch tuyệt đối từ 5-10%: Cộng 0,5 điểm
+- Chênh lệch tuyệt đối từ 10-15%: 0 điểm
+- Chênh lệch tuyệt đối từ 15-20%: Trừ 0,5 điểm
+- Chênh lệch tuyệt đối ngoài 20%: Trừ 1 điểm | - Các phòng QLDN
+- Các Thuế cơ sở | 
+R04: 3 |  | Tỷ lệ thu NSNN tăng giảm so với cùng kỳ | Phòng NVDTPC | Số thu lũy kế tháng báo cáo/Số thu lũy kế cùng kỳ | Tháng | - Cao hơn từ 0-5%: Cộng 0,5 điểm
+- Cao hơn 5%: Cộng 1 điểm
+- Thấp từ 5%-0%: 0 điểm
+- Thấp từ 5%-10%: Trừ 0,5 điểm
+- Thấp dưới 10%: Trừ 1 điểm | - Các phòng QLDN
+- Các Thuế cơ sở | 
+R05: 4 | Công tác Quản lý nợ | Tỷ lệ nợ tăng/giảm so với đầu năm | Phòng NVDTPC | (Tổng nợ kỳ báo cáo - Tổng nợ đầu năm)/Tổng nợ đầu năm | Tuần/Tháng | - Cao hơn từ 5%: Trừ 1 điểm
+- Cao hơn  từ 0- 5%: Trừ 0,5 điểm
+- Thấp từ 5%-0%: Cộng 0,5 điểm
+- Thấp hơn 5%: Cộng 1 điểm | - Các phòng QLDN
+- Các Thuế cơ sở | 
+R06: 5 |  | Tỷ lệ nợ tăng/giảm so với tháng trước | Phòng NVDTPC | (Tổng nợ kỳ báo cáo - Tổng nợ tháng trước)/Tổng nợ tháng trước | Tháng | - Cao hơn từ 5%: Trừ 1 điểm
+- Cao hơn  từ 0- 5%: Trừ 0,5 điểm
+- Thấp từ 5%-0%: Cộng 0,5 điểm
+- Thấp hơn 5%: Cộng 1 điểm | - Các phòng QLDN
+- Các Thuế cơ sở | 
+R07: 6 |  | Tỷ lệ Tổng nợ/Dự toán thu NSNN | Phòng NVDTPC | Tổng nợ kỳ báo cáo/Dự toán thu NSNN | Tháng | - Cao hơn từ 5%: Trừ 1 điểm
+- Cao hơn  từ 0- 5%: Trừ 0,5 điểm
+- Thấp từ 5%-0%: Cộng 0,5 điểm
+- Thấp hơn 5%: Cộng 1 điểm | - Các phòng QLDN
+- Các Thuế cơ sở | 
+R08: 7 |  | Tỷ lệ Nợ khả năng thu/Dự toán thu NSNN | Phòng NVDTPC | Nợ khả năng thu kỳ báo cáo/Dự toán thu NSNN | Tháng | - Cao hơn từ 5%: Trừ 1 điểm
+- Cao hơn  từ 0- 5%: Trừ 0,5 điểm
+- Thấp từ 5%-0%: Cộng 0,5 điểm
+- Thấp hơn 5%: Cộng 1 điểm | - Các phòng QLDN
+- Các Thuế cơ sở | 
+R09: 8 |  | Tỷ lệ nợ Thuế, phí/Dự toán thu NSNN | Phòng NVDTPC | Nợ thuế phí kỳ báo cáo/Dự toán thu NSNN | Tháng | - Cao hơn từ 5%: Trừ 1 điểm
+- Cao hơn  từ 0- 5%: Trừ 0,5 điểm
+- Thấp từ 5%-0%: Cộng 0,5 điểm
+- Thấp hơn 5%: Cộng 1 điểm | - Các phòng QLDN
+- Các Thuế cơ sở | 
+R10: 9 |  | Tỷ lệ số lượng NNT đã thực hiện cưỡng chế/Số lượng phải thực hiện cưỡng chế | Phòng NVDTPC | (Số lượng NNT đã cưỡng chế + nộp dần + đã đôn đốc nộp)/Số lượng NNT phải thực hiện cưỡng chế | Tuần/Tháng | - Cao hơn từ 5%: Cộng 1 điểm
+- Cao hơn từ 0-5%: Cộng 0,5 điểm
+- Thấp từ 5%-0%: Trừ 0,5 điểm
+- Thấp hơn 5%: Trừ 1 điểm | - Các phòng QLDN
+- Các Thuế cơ sở | 
+R11: 10 |  | Tỷ lệ số tiền đã thực hiện cưỡng chế/Số tiền phải thực hiện cưỡng chế | Phòng NVDTPC | (Số tiền thuế nợ quá 90N đã cưỡng chế + nộp dần + đã đôn đốc nộp)/Số tiền thuế nợ quá 90N phải thực hiện cưỡng chế | Tuần/Tháng | - Cao hơn từ 5%: Cộng 1 điểm
+- Cao hơn từ 0-5%: Cộng 0,5 điểm
+- Thấp từ 5%-0%: Trừ 0,5 điểm
+- Thấp hơn 5%: Trừ 1 điểm | - Các phòng QLDN
+- Các Thuế cơ sở | 
+R12: 11 |  | Tỷ lệ số lượng NNT đã thực hiện tạm hoãn xuất cảnh/Số lượng phải thực hiện THXC | Phòng NVDTPC | (Số lượng NNT đã THXC + đã đôn đốc nộp)/Số lượng NNT phải thực hiện THXC | Tháng | - Cao hơn từ 5%: Cộng 1 điểm
+- Cao hơn từ 0-5%: Cộng 0,5 điểm
+- Thấp từ 5%-0%: Trừ 0,5 điểm
+- Thấp hơn 5%: Trừ 1 điểm | - Các phòng QLDN
+- Các Thuế cơ sở | 
+R13: 12 |  | Tỷ lệ số tiền đã thực hiện tạm hoãn xuất cảnh/Số tiền phải thực hiện THXC | Phòng NVDTPC | (Số tiền nợ đã THXC + đã đôn đốc nộp)/Số tiền phải thực hiện THXC | Tháng | - Cao hơn từ 5%: Cộng 1 điểm
+- Cao hơn từ 0-5%: Cộng 0,5 điểm
+- Thấp từ 5%-0%: Trừ 0,5 điểm
+- Thấp hơn 5%: Trừ 1 điểm | - Các phòng QLDN
+- Các Thuế cơ sở | 
+R14: 13 |  | Tỷ lệ số tiền DN/TC đã thực hiện tạm hoãn xuất cảnh/Số tiền phải thực hiện THXC | Phòng QLDN1 | (Số tiền nợ đã THXC + đã đôn đốc nộp)/Số tiền phải thực hiện THXC | Tuần | - Cao hơn từ 5%: Cộng 1 điểm
+- Cao hơn từ 0-5%: Cộng 0,5 điểm
+- Thấp từ 5%-0%: Trừ 0,5 điểm
+- Thấp hơn 5%: Trừ 1 điểm | - Khối các phòng QLDN | 
+R15: 14 | Công tác TTHC | Tỷ lệ tồn quá hạn thực hiện TTHC (Đã loại trừ hoàn GTGT và TNCN) theo tháng | Văn phòng | Số TTHC tồn quá hạn/Số TTHC đã thực hiện | Tháng | - Cao hơn từ 5%: Trừ 1 điểm
+- Cao hơn  từ 0- 5%: Trừ 0,5 điểm
+- Thấp từ 5%-0%: Cộng 0,5 điểm
+- Thấp hơn 5%: Cộng 1 điểm | - Các phòng QLDN
+- Các Thuế cơ sở | 
+R16: 15 |  | Tỷ lệ tồn quá hạn thực hiện TTHC (Đã loại trừ hoàn GTGT và TNCN) theo tuần | Văn phòng | Số TTHC tồn quá hạn/Số TTHC tồn | Tuần | - Cao hơn từ 5%: Trừ 1 điểm
+- Cao hơn  từ 0- 5%: Trừ 0,5 điểm
+- Thấp từ 5%-0%: Cộng 0,5 điểm
+- Thấp hơn 5%: Cộng 1 điểm | - Các phòng QLDN
+- Các Thuế cơ sở | 
+R17: 16 |  | Tỷ lệ đánh giá sự hài lòng (hệ thống Cục Thuế) | Văn phòng | Lượt đánh giá hài lòng/Tổng số lượt đánh giá | Tuần/Tháng | Lấy mốc 90% căn cứ theo yêu cầu của Cục Thuế là cơ sở so sánh:
+- Trên 95%: Cộng 1 điểm
+- Từ 90-95%: Cộng 0,5 điểm
+- Từ 85%-90%: Trừ 0,5 điểm
+- Thấp hơn 85%: Trừ 1 điểm | - Các phòng QLDN
+- Các Thuế cơ sở
+- Các phòng KTr | 
+R18: 17 | Công tác QLDN | Rà soát TPR | Phòng QLDN2 | Tỷ lệ (%) NNT đã thực hiện rà soát/Tổng số NNT phải thực hiện rà soát | Tuần/Tháng | - Cao hơn từ 5%: Cộng 1 điểm
+- Cao hơn từ 0-5%: Cộng 0,5 điểm
+- Thấp từ 5%-0%: Trừ 0,5 điểm
+- Thấp hơn 5%: Trừ 1 điểm | - Các phòng QLDN
+- Các Thuế cơ sở | Nếu TB ngành trên 95% thì đơn vị có kết quả đạt cao hơn TB ngành được cộng tối đa 1 điểm
+R19: 18 |  | Xác minh hóa đơn | Phòng QLDN2 | Tỷ lệ (%) HĐ đã thực hiện xác minh/Tổng số HĐ phải thực hiện xác minh | Tuần/Tháng | - Cao hơn từ 5%: Cộng 1 điểm
+- Cao hơn từ 0-5%: Cộng 0,5 điểm
+- Thấp từ 5%-0%: Trừ 0,5 điểm
+- Thấp hơn 5%: Trừ 1 điểm | - Các phòng QLDN
+- Các Thuế cơ sở | Nếu TB ngành trên 95% thì đơn vị có kết quả đạt cao hơn TB ngành được cộng tối đa 1 điểm
+R20: 19 |  | Hệ số K | Phòng QLDN2 | Tỷ lệ (%) NNT đã thực hiện rà soát/Tổng số NNT phải thực hiện rà soát | Tuần/Tháng | - Cao hơn từ 5%: Cộng 1 điểm
+- Cao hơn từ 0-5%: Cộng 0,5 điểm
+- Thấp từ 5%-0%: Trừ 0,5 điểm
+- Thấp hơn 5%: Trừ 1 điểm | - Các phòng QLDN
+- Các Thuế cơ sở | Nếu TB ngành trên 95% thì đơn vị có kết quả đạt cao hơn TB ngành được cộng tối đa 1 điểm
+R21: 20 |  | Xử phạt VPHC | Phòng QLDN5 | Tỷ lệ đã xử phạt/Tổng số phải xử phạt | Tháng | - Cao hơn từ 5%: Cộng 1 điểm
+- Cao hơn từ 0-5%: Cộng 0,5 điểm
+- Thấp từ 5%-0%: Trừ 0,5 điểm
+- Thấp hơn 5%: Trừ 1 điểm | - Các phòng QLDN
+- Các Thuế cơ sở | 
+R22: 21 |  | Đóng mã giải thể (Không bao gồm đã chuyển kiểm tra tại trụ sở NNT) theo gói của Phòng QLDN3 | Phòng QLDN3 | Tỷ lệ đã thực hiện/Tổng số lượng giao | Tuần/Tháng | - Cao hơn từ 5%: Cộng 1 điểm
+- Cao hơn từ 0-5%: Cộng 0,5 điểm
+- Thấp từ 5%-0%: Trừ 0,5 điểm
+- Thấp hơn 5%: Trừ 1 điểm | - Các phòng QLDN
+- Các Thuế cơ sở | 
+R23: 22 |  | Đóng mã giải thể (Không bao gồm đã chuyển kiểm tra tại trụ sở NNT) phát sinh mới | Phòng QLDN5 | Tỷ lệ tồn quá hạn/Tổng số hs phải xử lý | Tuần/Tháng | - Cao hơn từ 5%: Trừ 1 điểm
+- Cao hơn  từ 0- 5%: Trừ 0,5 điểm
+- Thấp từ 5%-0%: Cộng 0,5 điểm
+- Thấp hơn 5%: Cộng 1 điểm | - Các phòng QLDN
+- Các Thuế cơ sở | 
+R24: 23 |  | Xử lý gói nhiều nguồn 2025 | Phòng CNTK | Số lượng đã hoàn thành/Số lượng kế hoạch giao | Tuần/Tháng | - Cao hơn từ 5%: Cộng 1 điểm
+- Cao hơn từ 0-5%: Cộng 0,5 điểm
+- Thấp từ 5%-0%: Trừ 0,5 điểm
+- Thấp hơn 5%: Trừ 1 điểm | - Các phòng QLDN
+- Các Thuế cơ sở | 
+R25: 24 |  | Kiểm tra tại bàn | Phòng QLDN3 | Số HS đã thực hiện/Tổng số HS | Tuần/Tháng | - Cao hơn từ 5%: Cộng 1 điểm
+- Cao hơn từ 0-5%: Cộng 0,5 điểm
+- Thấp từ 5%-0%: Trừ 0,5 điểm
+- Thấp hơn 5%: Trừ 1 điểm | - Các phòng QLDN
+- Các Thuế cơ sở | 
+R26: 25 |  | Hoàn TNCN | Phòng CNTK | Tỷ lệ số tồn quá hạn/Tổng số hồ sơ tồn | Tuần/Tháng | - Cao hơn từ 5%: Trừ 1 điểm
+- Cao hơn  từ 0- 5%: Trừ 0,5 điểm
+- Thấp từ 5%-0%: Cộng 0,5 điểm
+- Thấp hơn 5%: Cộng 1 điểm | - Các phòng QLDN
+- Các Thuế cơ sở | Nếu TB ngành dưới 5% thì đơn vị có kết quả đạt thấp hơn TB ngành được cộng tối đa 1 điểm
+R27: 26 |  | Hoàn trước GTGT | Kiểm tra 3 | Tỷ lệ số tồn quá hạn/Tổng số hồ sơ tồn | Tuần/Tháng | - Cao hơn từ 5%: Trừ 1 điểm
+- Cao hơn  từ 0- 5%: Trừ 0,5 điểm
+- Thấp từ 5%-0%: Cộng 0,5 điểm
+- Thấp hơn 5%: Cộng 1 điểm | - Các phòng QLDN | Nếu TB ngành dưới 5% thì đơn vị có kết quả đạt thấp hơn TB ngành được cộng tối đa 1 điểm
+R28: 27 | Công tác HKD | Chỉ tiêu Tổng thu trên địa bàn | Phòng CNTK | Số thu lũy kế/ Dự toán giao | Tháng | Căn cứ theo tiêu chí chấm điểm của Phòng CNTK đã xây dựng. Văn phòng thực hiện lấy tổng điểm chia cho 11 (số điểm tối đa đơn vị có thể đạt được) | - Các Thuế cơ sở | 
+R29: 28 |  | Chỉ tiêu Công tác quản lý khai thuế | Phòng CNTK | Số HKD đã kê khai/Số HKD | Tháng |  | - Các Thuế cơ sở | 
+R30: 29 |  | Chỉ tiêu Nộp thuế điện tử | Phòng CNTK | Tỷ lệ tăng giảm nợ trong kỳ (không bao gồm nợ đất) | Tháng |  | - Các Thuế cơ sở | 
+R31: 30 |  | Chỉ tiêu Công tác kiểm tra hộ kinh doanh | Phòng CNTK | Số HKD đã kiểm tra/ Số HKD được giao kiểm tra | Tháng |  | - Các Thuế cơ sở | 
+R32: 31 |  | Công tác đôn đốc rà soát các gói dữ liệu hộ kinh doanh > 1 tỷ | Phòng CNTK | Số HKD đã thực hiện/Số HKD được giao | Tháng |  | - Các Thuế cơ sở | 
+R33: 32 |  | Chỉ tiêu Công tác hỗ trợ đôn đốc HKD sử dụng hóa đơn điện tử | Phòng CNTK | Số HKD đã thực hiện/Số HKD được giao | Tháng |  | - Các Thuế cơ sở | 
+R34: 33 |  | Chỉ tiêu Công tác chuyển đổi lên doanh nghiệp | Phòng CNTK | Số HKD đã thực hiện/Số HKD được giao | Tháng |  | - Các Thuế cơ sở | 
+R35: 34 | Công tác Kiểm tra | Tỷ lệ hoàn thành kế hoạch | Kiểm tra 1 | Số lượng đã hoàn thành/Số lượng được giao | Tuần/Tháng | - Cao hơn từ 5%: Cộng 1 điểm
+- Cao hơn từ 0-5%: Cộng 0,5 điểm
+- Thấp từ 5%-0%: Trừ 0,5 điểm
+- Thấp hơn 5%: Trừ 1 điểm | - Các phòng Kiểm tra
+- Các Thuế cơ sở | 
+R36: 35 |  | Tỷ lệ đôn đốc nộp truy thu, xử phạt | Kiểm tra 1 | Tỷ lệ đã nộp truy thu xử phạt/Tổng số phải đôn đốc | Tuần/Tháng | - Cao hơn từ 5%: Cộng 1 điểm
+- Cao hơn từ 0-5%: Cộng 0,5 điểm
+- Thấp từ 5%-0%: Trừ 0,5 điểm
+- Thấp hơn 5%: Trừ 1 điểm | - Các phòng Kiểm tra
+- Các Thuế cơ sở | 
+R37: 37 |  | Kiểm tra đóng mã giải thể | Kiểm tra 1 | Số lượng đã hoàn thành/Số lượng được giao | Tuần/Tháng | - Cao hơn từ 5%: Cộng 1 điểm
+- Cao hơn từ 0-5%: Cộng 0,5 điểm
+- Thấp từ 5%-0%: Trừ 0,5 điểm
+- Thấp hơn 5%: Trừ 1 điểm | - Các phòng Kiểm tra
+- Các Thuế cơ sở | 
+R38: 38 |  | Kiểm tra trước hoàn GTGT | Kiểm tra 3 | Tỷ lệ số tồn quá hạn/Tổng số hồ sơ tồn | Tuần/Tháng | - Cao hơn từ 5%: Trừ 1 điểm
+- Cao hơn  từ 0- 5%: Trừ 0,5 điểm
+- Thấp từ 5%-0%: Cộng 0,5 điểm
+- Thấp hơn 5%: Cộng 1 điểm | - Các Phòng Kiểm tra | 
+
+--- SHEET: I. Khối TCS (Rows: 27, Cols: 83) ---
+R01: Đơn vị | Chỉ tiêu Tỷ lệ số thực thu NSNN |  |  | Tỷ lệ thực thu tháng/ước thu tháng |  |  |  | Tỷ lệ thu NSNN tăng giảm so với cùng kỳ |  |  | Tổng điểm trung bình thu NSNN | Tỷ lệ nợ tăng/giảm so với đầu năm |  |  | Tăng/giảm so với tháng trước (%) |  |  | Tỷ lệ Tổng nợ/Tổng thu NSNN |  |  | Tỷ lệ Nợ khả năng thu/Tổng thu NSNN |  |  | Tỷ lệ nợ Thuế, phí/Tổng thu NSNN
+R02:  | Tỷ lệ số thực thu NSNN | Bình quân toàn ngành | Tính điểm | Thực hiện | Ước thu | Tỷ lệ chênh lệch tuyệt đối | Tính điểm | Tỷ lệ thu NSNN tăng giảm so với cùng kỳ | Bình quân toàn ngành | Tính điểm |  | Tỷ lệ nợ tăng/giảm so với đầu năm | Bình quân toàn ngành | Tính điểm | Tăng/giảm so với tháng trước (%) | Bình quân toàn ngành | Tính điểm | Tỷ lệ Tổng nợ/Tổng thu NSNN | Chỉ tiêu Cục giao 8% | Tính điểm | Tỷ lệ Nợ khả năng thu/Tổng thu NSNN | Chỉ tiêu Cục giao 5% | Tính điểm | Tỷ lệ nợ Thuế, phí/Tổng thu NSNN
+R03: THUẾ CƠ SỞ 1 | 78.543404353395 | 79.64335189507223 | 0 | 116364.90000000002 | 131283 | 0.11363314366673505 | -1 | 1.0201268583927094 | 1.077124068484631 | -1 | -0.6666666666666666 | 0.1461870698299004 | 0.04565984608097564 | -1 | -0.20477709410039388 | -0.09827806911714303 | 1 | 0.0554513213105525 | 0.08 | 0.5 | 0.04268187038542772 | 0.05 | 0.5 | 0.04896174171506081
+R04: THUẾ CƠ SỞ 2 | 84.56951022623925 | 79.64335189507223 | 0.5 | 277470.35000000003 | 300540 | 0.07676066413788503 | -1 | 1.1168000265719709 | 1.077124068484631 | 0.5 | 0 | 0.09484762502395302 | 0.04565984608097564 | -0.5 | -0.18983442517110688 | -0.09827806911714303 | 1 | 0.06855380177710724 | 0.08 | 0.5 | 0.054231235164961714 | 0.05 | -0.5 | 0.05632665031173404
+R05: THUẾ CƠ SỞ 3 | 66.97366117292974 | 79.64335189507223 | -1 | 177163.5 | 208568.63677231647 | 0.15057458905770107 | -1 | 0.9428967829894476 | 1.077124068484631 | -1 | -1 | -0.06203006891943547 | 0.04565984608097564 | 1 | -0.14495314009841537 | -0.09827806911714303 | 0.5 | 0.04239301475543465 | 0.08 | 0.5 | 0.03002912276669223 | 0.05 | 0.5 | 0.0347908463485219
+R06: THUẾ CƠ SỞ 4 | 82.73732847294455 | 79.64335189507223 | 0.5 | 339129.83999999997 | 346534.7186429945 | 0.02136836006502189 | 1 | 1.4206405010061243 | 1.077124068484631 | 1 | 0.8333333333333334 | 0.03666407921269921 | 0.04565984608097564 | 0.5 | -0.09181995126242065 | -0.09827806911714303 | -0.5 | 0.08423781065630868 | 0.08 | -0.5 | 0.06029644741018745 | 0.05 | -0.5 | 0.0707884719335976
+R07: THUẾ CƠ SỞ 5 | 75.0624427971897 | 79.64335189507223 | 0 | 427616.54000000004 | 395899.08432285005 | 0.08011500135545871 | -1 | 1.2108943570904755 | 1.077124068484631 | 1 | 0 | 0.029758251070027757 | 0.04565984608097564 | 0.5 | -0.14305519548957404 | -0.09827806911714303 | 0.5 | 0.08161157529861285 | 0.08 | -0.5 | 0.060028875809341214 | 0.05 | -0.5 | 0.07178670760215185
+R08: THUẾ CƠ SỞ 6 | 86.08490559488432 | 79.64335189507223 | 1 | 273686.76 | 323003.4 | 0.1526814888016659 | -1 | 0.9514007269755148 | 1.077124068484631 | -1 | -0.3333333333333333 | -0.07599247943154218 | 0.04565984608097564 | 1 | -0.07854462136618488 | -0.09827806911714303 | -0.5 | 0.12698941570127448 | 0.08 | -0.5 | 0.06170492086381018 | 0.05 | -0.5 | 0.11105582756694943
+R09: THUẾ CƠ SỞ 7 | 99.84814713762228 | 79.64335189507223 | 1 | 244650.52 | 282886.31045 | 0.13516309922942757 | -1 | 0.14588210531293155 | 1.077124068484631 | -1 | -0.3333333333333333 | 0.09583679507433522 | 0.04565984608097564 | -1 | -0.12097049297992156 | -0.09827806911714303 | 0.5 | 0.0957616732876323 | 0.08 | -0.5 | 0.06947724761812732 | 0.05 | -0.5 | 0.07019257464464225
+R10: THUẾ CƠ SỞ 8 | 89.0460845246687 | 79.64335189507223 | 1 | 327258.31999999995 | 382000 | 0.14330282722513102 | -1 | 1.0865420811656232 | 1.077124068484631 | 0.5 | 0.16666666666666666 | 0.11511835801269797 | 0.04565984608097564 | -1 | -0.08418026261611027 | -0.09827806911714303 | -0.5 | 0.11146989152162064 | 0.08 | -0.5 | 0.07253822889532116 | 0.05 | -0.5 | 0.08509973765297975
+R11: THUẾ CƠ SỞ 9 | 91.11107281781452 | 79.64335189507223 | 1 | 205147.99000000002 | 251326.12785574998 | 0.1837379115722268 | -1 | 1.6399641964694973 | 1.077124068484631 | 1 | 0.3333333333333333 | 0.14062457373910445 | 0.04565984608097564 | -1 | -0.08284022381786192 | -0.09827806911714303 | -0.5 | 0.13046254476933195 | 0.08 | -1 | 0.0932621541798365 | 0.05 | -0.5 | 0.0977225004246923
+R12: THUẾ CƠ SỞ 10 | 39.540163528033425 | 79.64335189507223 | -1 | 186286.16 | 292429.6976701189 | 0.3629711295254841 | -1 | 1.1171354828657298 | 1.077124068484631 | 0.5 | -0.5 | 0.18818885223960405 | 0.04565984608097564 | -1 | -0.16778212260972883 | -0.09827806911714303 | 1 | 0.03690969932958319 | 0.08 | 0.5 | 0.02749021146743384 | 0.05 | 0.5 | 0.021264242694543505
+R13: THUẾ CƠ SỞ 11 | 79.0346391944807 | 79.64335189507223 | 0 | 238775.45 | 258738.587193 | 0.07715562417487024 | -1 | 0.9243804056796016 | 1.077124068484631 | -1 | -0.6666666666666666 | 0.061047543336636666 | 0.04565984608097564 | -0.5 | -0.06328005614504512 | -0.09827806911714303 | -0.5 | 0.13953971540721405 | 0.08 | -1 | 0.0831552414604181 | 0.05 | -0.5 | 0.07135457972237762
+R14: THUẾ CƠ SỞ 12 | 82.62134820983471 | 79.64335189507223 | 0.5 | 173651.05 | 311751 | 0.44298157824674184 | -1 | 1.1647680577055188 | 1.077124068484631 | 1 | 0.16666666666666666 | -0.04244614174118713 | 0.04565984608097564 | 1 | -0.07169819104809555 | -0.09827806911714303 | -0.5 | 0.0920889485964516 | 0.08 | -0.5 | 0.0770016857834013 | 0.05 | -0.5 | 0.041187247957708846
+R15: THUẾ CƠ SỞ 13 | 76.47051920997811 | 79.64335189507223 | 0 | 334125.44999999995 | 374843 | 0.1086256112559126 | -1 | 1.168163641623489 | 1.077124068484631 | 1 | 0 | 0.06084979989474652 | 0.04565984608097564 | -0.5 | -0.10618813028298567 | -0.09827806911714303 | 0.5 | 0.06801071900238041 | 0.08 | 0.5 | 0.050288834324405125 | 0.05 | -0.5 | 0.05880511051683333
+R16: THUẾ CƠ SỞ 14 | 85.51352356742557 | 79.64335189507223 | 1 | 173149.38 | 211500 | 0.1813268085106383 | -1 | 1.0693533458327023 | 1.077124068484631 | -0.5 | -0.16666666666666666 | -0.09026740210000808 | 0.04565984608097564 | 1 | -0.12366754263969426 | -0.09827806911714303 | 0.5 | 0.12311925730823953 | 0.08 | -0.5 | 0.07372472101001228 | 0.05 | -0.5 | 0.09824072052265465
+R17: THUẾ CƠ SỞ 15 | 90.91753922122905 | 79.64335189507223 | 1 | 375444.95999999996 | 376909.1791484004 | 0.003884806285983042 | 1 | 0.940669159965945 | 1.077124068484631 | -1 | 0.3333333333333333 | -0.0407855066276218 | 0.04565984608097564 | 1 | -0.1309075245134886 | -0.09827806911714303 | 0.5 | 0.1114994281459892 | 0.08 | -0.5 | 0.09590660423821243 | 0.05 | -0.5 | 0.09286822497358348
+R18: THUẾ CƠ SỞ 16 | 145.2040532938158 | 79.64335189507223 | 1 | 87731.47999999998 | 75763.895268 | 0.1579589419164233 | -1 | 0.7846565872075257 | 1.077124068484631 | -1 | -0.3333333333333333 | 0.8453116596675888 | 0.04565984608097564 | -1 | 0.2062294191064057 | -0.09827806911714303 | -1 | 0.24861428758627313 | 0.08 | -1 | 0.23416711618298827 | 0.05 | -1 | 0.03194898772897543
+R19: THUẾ CƠ SỞ 17 | 123.74419284623632 | 79.64335189507223 | 1 | 92397.09 | 91093.5 | 0.014310461229396132 | 1 | 1.1705242388188848 | 1.077124068484631 | 1 | 1 | 1.8507304354107357 | 0.04565984608097564 | -1 | 0.38107938165261535 | -0.09827806911714303 | -1 | 0.08361124018063092 | 0.08 | -0.5 | 0.08208981023228615 | 0.05 | -0.5 | 0.04427240111627303
+R20: THUẾ CƠ SỞ 18 | 96.50527958492523 | 79.64335189507223 | 1 | 596463.9600000001 | 437712.0457 | 0.3626857333709426 | -1 | 1.115350786677123 | 1.077124068484631 | 0.5 | 0.16666666666666666 | 0.39445384083749013 | 0.04565984608097564 | -1 | -0.2618077278345722 | -0.09827806911714303 | 1 | 0.07630499979588025 | 0.08 | 0.5 | 0.047881897876502044 | 0.05 | 0.5 | 0.035673860565817506
+R21: THUẾ CƠ SỞ 19 | 83.6480482791335 | 79.64335189507223 | 0.5 | 123915.5 | 140499 | 0.11803286856134207 | -1 | 1.0292708622082385 | 1.077124068484631 | -0.5 | -0.3333333333333333 | 0.13080576412684394 | 0.04565984608097564 | -1 | 0.021745149530370825 | -0.09827806911714303 | -1 | 0.10526487302429768 | 0.08 | -0.5 | 0.07623867397986614 | 0.05 | -0.5 | 0.06639573123385864
+R22: THUẾ CƠ SỞ 20 | 120.37938214739518 | 79.64335189507223 | 1 | 292139.69 | 336966 | 0.13302917801796027 | -1 | 0.7707037827675828 | 1.077124068484631 | -1 | -0.3333333333333333 | 0.03198750446956189 | 0.04565984608097564 | 0.5 | -0.10986031973385271 | -0.09827806911714303 | 0.5 | 0.12981052448856417 | 0.08 | -0.5 | 0.11047945461880557 | 0.05 | -1 | 0.06459046457830368
+R23: THUẾ CƠ SỞ 21 | 92.56266483920388 | 79.64335189507223 | 1 | 241051.93000000002 | 265044.7475925541 | 0.09052364859324641 | -1 | 0.804154219761405 | 1.077124068484631 | -1 | -0.3333333333333333 | 0.2452917465351367 | 0.04565984608097564 | -1 | -0.08680515596554302 | -0.09827806911714303 | -0.5 | 0.15676976634530965 | 0.08 | -1 | 0.11572238989795235 | 0.05 | -1 | 0.08173420146160613
+R24: THUẾ CƠ SỞ 22 | 131.39163178091033 | 79.64335189507223 | 1 | 225554.40000000002 | 311583.2377397 | 0.27610226520455317 | -1 | 1.1130975421750158 | 1.077124068484631 | 0.5 | 0.16666666666666666 | 0.6061137699673239 | 0.04565984608097564 | -1 | -0.1384956935613145 | -0.09827806911714303 | 0.5 | 0.2658952647207466 | 0.08 | -1 | 0.22824244223766543 | 0.05 | -1 | 0.09063116035485523
+R25: THUẾ CƠ SỞ 23 | 68.75573770358346 | 79.64335189507223 | -1 | 135568.59 | 124345 | 0.09026169126221398 | -1 | 1.132277199880912 | 1.077124068484631 | 1 | -0.3333333333333333 | 0.00029065375591635196 | 0.04565984608097564 | 0.5 | -0.20593248417863547 | -0.09827806911714303 | 1 | 0.05291385640802497 | 0.08 | 0.5 | 0.03890461776335392 | 0.05 | 0.5 | 0.04151797277195885
+R26: THUẾ CƠ SỞ 24 | 102.82864117168428 | 79.64335189507223 | 1 | 154051.26 | 324090 | 0.5246651855965935 | -1 | 0.10735542938025407 | 1.077124068484631 | -1 | -0.3333333333333333 | 1.0256374005840703 | 0.04565984608097564 | -1 | -0.04081141189495081 | -0.09827806911714303 | -1 | 1.3856199461598842 | 0.08 | -1 | 1.3811665249018177 | 0.05 | -1 | 1.3702415876943894
+R27: THUẾ CƠ SỞ 25 | 81.20340238780614 | 79.64335189507223 | 0.5 | 303427.36 | 210000 | 0.4448921904761904 | -1 | 1.7926138998437382 | 1.077124068484631 | 1 | 0.16666666666666666 | 0.6815683967541077 | 0.04565984608097564 | -1 | 0.10753871882573202 | -0.09827806911714303 | -1 | 0.08939951550051571 | 0.08 | -0.5 | 0.08603112380188356 | 0.05 | -0.5 | 0.019055974467597433
+
+--- SHEET: II. Khối QLDN (Rows: 7, Cols: 74) ---
+R01: Đơn vị | Chỉ tiêu tỷ lệ thu NSNN |  |  | Tỷ lệ thực thu tháng/ước thu tháng |  |  |  | Tỷ lệ thu NSNN tăng giảm so với cùng kỳ |  |  | Tổng điểm trung bình thu NSNN | Tỷ lệ nợ tăng/giảm so với đầu năm |  |  | Tăng/giảm so với tháng trước |  |  | Tỷ lệ Tổng nợ/Tổng thu NSNN |  |  | Tỷ lệ Nợ khả năng thu/Tổng thu NSNN |  |  | Tỷ lệ nợ Thuế, phí/Tổng thu NSNN
+R02:  | Tỷ lệ số thực thu NSNN | Bình quân toàn ngành | Tính điểm | Thực hiện | Ước thu | Tỷ lệ chênh lệch tuyệt đối | Tính điểm | Tỷ lệ thu NSNN tăng giảm so với cùng kỳ | Bình quân toàn ngành | Tính điểm |  | Tỷ lệ nợ tăng/giảm so với đầu năm | Bình quân toàn ngành | Tính điểm | Tăng/giảm so với tháng trước | Bình quân toàn ngành | Tính điểm | Tỷ lệ Tổng nợ/Tổng thu NSNN | Chỉ tiêu Cục giao 8% | Tính điểm | Tỷ lệ Nợ khả năng thu/Tổng thu NSNN | Chỉ tiêu Cục giao 5% | Tính điểm | Tỷ lệ nợ Thuế, phí/Tổng thu NSNN
+R03: Phòng Quản lý, Hỗ trợ doanh nghiệp số 1 | 82.39165159847025 | 79.64335189507223 | 0.5 | 631092.22 | 880732.693524556 | 0.28344635706156596 | -1 | 1.3915549221486758 | 1.077124068484631 | 1 | 0.16666666666666666 | 0.2470924744047185 | 0.04565984608097564 | -1 | -0.10560073372492237 | -0.09827806911714303 | 0.5 | 0.13925439169277665 | 0.08 | -1 | 0.11771170311648234 | 0.05 | -1 | 0.13610735144271116
+R04: Phòng Quản lý, Hỗ trợ doanh nghiệp số 2 | 75.84282590349301 | 79.64335189507223 | 0 | 1299985.6700000002 | 1231800 | 0.055354497483357815 | -1 | 1.169204528361861 | 1.077124068484631 | 1 | 0 | -0.2008717066099066 | 0.04565984608097564 | 1 | -0.46900151868514767 | -0.09827806911714303 | 1 | 0.008136158202879306 | 0.08 | 1 | 0.00394661332513383 | 0.05 | 0.5 | 0.007612067643218285
+R05: Phòng Quản lý, Hỗ trợ doanh nghiệp số 3 | 92.82042817922688 | 79.64335189507223 | 1 | 599756.02 | 946600 | 0.366410289457004 | -1 | 2.086060975484457 | 1.077124068484631 | 1 | 0.3333333333333333 | 0.3021557729863265 | 0.04565984608097564 | -1 | -0.12336799818222426 | -0.09827806911714303 | 0.5 | 0.0546788222625892 | 0.08 | 0.5 | 0.0350284837878093 | 0.05 | 0.5 | 0.053640070403160225
+R06: Phòng Quản lý, Hỗ trợ doanh nghiệp số 4 | 79.08000768522 | 79.64335189507223 | 0 | 766366.3200000001 | 851811.7182025799 | 0.10031019341090937 | -1 | 0.8167538060389457 | 1.077124068484631 | -1 | -0.6666666666666666 | -0.14943395024806663 | 0.04565984608097564 | 1 | -0.3882132078290922 | -0.09827806911714303 | 1 | 0.027233140525408376 | 0.08 | 1 | 0.022556801071576114 | 0.05 | 0.5 | 0.026755795419649585
+R07: Phòng Quản lý, Hỗ trợ doanh nghiệp số 5 | 69.23673258844627 | 79.64335189507223 | -1 | 4351374.319999999 | 4278300 | 0.017080223453240624 | 1 | 1.1105255441370225 | 1.077124068484631 | 0.5 | 0.16666666666666666 | -0.030552174627735795 | 0.04565984608097564 | 1 | -0.0310756115918153 | -0.09827806911714303 | -1 | 0.015936387450970823 | 0.08 | 1 | 0.008175676742015706 | 0.05 | 0.5 | 0.015222959540495412
+
+--- SHEET: III. Khối Ktra (Rows: 7, Cols: 18) ---
+R01: Đơn vị | Tỷ lệ đánh giá sự hài lòng (hệ thống Cục Thuế) |  |  | Tỷ lệ đôn đốc nộp truy thu, xử phạt |  |  | Kiểm tra đóng mã giải thể |  |  | Tỷ lệ số tồn quá hạn/Tổng số hồ sơ tồn kiểm trước |  |  | Tỷ lệ hoàn thành kế hoạch đích danh 2026 |  |  | Tổng điểm | Xếp hạng
+R02:  | Tỷ lệ đánh giá sự hài lòng (hệ thống Cục Thuế) | So sánh với 90% | Tính điểm | Tỷ lệ đôn đốc nộp truy thu, xử phạt | Bình quân toàn ngành | Tính điểm | Kiểm tra đóng mã giải thể | Bình quân toàn ngành | Tính điểm | Tỷ lệ số tồn quá hạn/Tổng số hồ sơ tồn kiểm trước | Bình quân toàn ngành | Tính điểm | Tỷ lệ hoàn thành kế hoạch đích danh 2026 | Bình quân toàn ngành | Tính điểm |  | 
+R03: Phòng Kiểm tra thuế số 1 | 0.8619658119658119 | 0.9 | -0.5 | 0.9569901262779238 | 0.9473300208733966 | 0.5 | 0.82 | 0.82 | 0 | 0.08 | 0.0071174377224199285 | -1 | 0.30597014925373134 | 0.39752185351777986 | -1 | -2 | 5
+R04: Phòng Kiểm tra thuế số 2 | 0.8619658119658119 | 0.9 | -0.5 | 0.9562934718390543 | 0.9473300208733966 | 0.5 | 0.91 | 0.82 | 1 | 0 | 0.0071174377224199285 | 0.5 | 0.21561338289962825 | 0.39752185351777986 | -1 | 0.5 | 1
+R05: Phòng Kiểm tra thuế số 3 | 0.8619658119658119 | 0.9 | -0.5 | 0.9782176977566841 | 0.9473300208733966 | 0.5 | 0.8 | 0.82 | -0.5 | 0 | 0.0071174377224199285 | 0.5 | 0.26765799256505574 | 0.39752185351777986 | -1 | -1 | 3
+R06: Phòng Kiểm tra thuế số 4 | 0.8619658119658119 | 0.9 | -0.5 | 0.9658175397480052 | 0.9473300208733966 | 0.5 | 0.79 | 0.82 | -0.5 | 0 | 0.0071174377224199285 | 0.5 | 0.29850746268656714 | 0.39752185351777986 | -1 | -1 | 3
+R07: Phòng Kiểm tra thuế số 5 | 0.8619658119658119 | 0.9 | -0.5 | 0.9909467239991259 | 0.9473300208733966 | 0.5 | 0.82 | 0.82 | 0 | 0 | 0.0071174377224199285 | 0.5 | 0.14925373134328357 | 0.39752185351777986 | -1 | -0.5 | 2
+
+--- SHEET: 1.Phòng NVDTPC (Rows: 32, Cols: 38) ---
+R01: Đơn vị | Chỉ tiêu 1 |  |  | Chỉ tiêu 2 (Sửa lại so với tháng trước) |  |  |  | Chỉ tiêu 3 |  |  | Chỉ tiêu 4 |  |  | Chỉ tiêu 5 |  |  | Chỉ tiêu 6 |  |  | Chỉ tiêu 7 |  |  | Chỉ tiêu 8 | 
+R02:  | Tỷ lệ số thực thu NSNN | Bình quân toàn ngành | Tính điểm | Thực hiện | Ước thu | Tỷ lệ chênh lệch | Tính điểm | Tỷ lệ thu NSNN tăng giảm so với cùng kỳ | Bình quân toàn ngành | Tính điểm | Tỷ lệ nợ tăng/giảm so với đầu năm | Bình quân toàn ngành | Tính điểm | Tăng/giảm so với tháng trước (%) | Bình quân toàn ngành | Tính điểm | Tỷ lệ Tổng nợ/Tổng thu NSNN | Chỉ tiêu Cục giao 8% | Tính điểm | Tỷ lệ Nợ khả năng thu/Tổng thu NSNN | Chỉ tiêu Cục giao 5% | Tính điểm | Tỷ lệ nợ Thuế, phí/Tổng thu NSNN | Chỉ tiêu Cục giao 5%
+R03: Phòng Quản lý, Hỗ trợ doanh nghiệp số 1 | 82.39165159847025 | 79.64335189507223 | 0.5 | 631092.22 | 880732.693524556 | 0.28344635706156596 | -1 | 1.3915549221486758 | 1.077124068484631 | 1 | 0.2470924744047185 | 0.04565984608097564 | -1 | -0.10560073372492237 | -0.09827806911714303 | 0.5 | 0.13925439169277665 | 0.08 | -1 | 0.11771170311648234 | 0.05 | -1 | 0.13610735144271116 | 0.05
+R04: Phòng Quản lý, Hỗ trợ doanh nghiệp số 2 | 75.84282590349301 | 79.64335189507223 | 0 | 1299985.6700000002 | 1231800 | 0.055354497483357815 | -1 | 1.169204528361861 | 1.077124068484631 | 1 | -0.2008717066099066 | 0.04565984608097564 | 1 | -0.46900151868514767 | -0.09827806911714303 | 1 | 0.008136158202879306 | 0.08 | 1 | 0.00394661332513383 | 0.05 | 0.5 | 0.007612067643218285 | 0.05
+R05: Phòng Quản lý, Hỗ trợ doanh nghiệp số 3 | 92.82042817922688 | 79.64335189507223 | 1 | 599756.02 | 946600 | 0.366410289457004 | -1 | 2.086060975484457 | 1.077124068484631 | 1 | 0.3021557729863265 | 0.04565984608097564 | -1 | -0.12336799818222426 | -0.09827806911714303 | 0.5 | 0.0546788222625892 | 0.08 | 0.5 | 0.0350284837878093 | 0.05 | 0.5 | 0.053640070403160225 | 0.05
+R06: Phòng Quản lý, Hỗ trợ doanh nghiệp số 4 | 79.08000768522 | 79.64335189507223 | 0 | 766366.3200000001 | 851811.7182025799 | 0.10031019341090937 | -1 | 0.8167538060389457 | 1.077124068484631 | -1 | -0.14943395024806663 | 0.04565984608097564 | 1 | -0.3882132078290922 | -0.09827806911714303 | 1 | 0.027233140525408376 | 0.08 | 1 | 0.022556801071576114 | 0.05 | 0.5 | 0.026755795419649585 | 0.05
+R07: Phòng Quản lý, Hỗ trợ doanh nghiệp số 5 | 69.23673258844627 | 79.64335189507223 | -1 | 4351374.319999999 | 4278300 | 0.017080223453240624 | 1 | 1.1105255441370225 | 1.077124068484631 | 0.5 | -0.030552174627735795 | 0.04565984608097564 | 1 | -0.0310756115918153 | -0.09827806911714303 | -1 | 0.015936387450970823 | 0.08 | 1 | 0.008175676742015706 | 0.05 | 0.5 | 0.015222959540495412 | 0.05
+R08: THUẾ CƠ SỞ 1 | 78.543404353395 | 79.64335189507223 | 0 | 116364.90000000002 | 131283 | 0.11363314366673505 | -1 | 1.0201268583927094 | 1.077124068484631 | -1 | 0.1461870698299004 | 0.04565984608097564 | -1 | -0.20477709410039388 | -0.09827806911714303 | 1 | 0.0554513213105525 | 0.08 | 0.5 | 0.04268187038542772 | 0.05 | 0.5 | 0.04896174171506081 | 0.05
+R09: THUẾ CƠ SỞ 2 | 84.56951022623925 | 79.64335189507223 | 0.5 | 277470.35000000003 | 300540 | 0.07676066413788503 | -1 | 1.1168000265719709 | 1.077124068484631 | 0.5 | 0.09484762502395302 | 0.04565984608097564 | -0.5 | -0.18983442517110688 | -0.09827806911714303 | 1 | 0.06855380177710724 | 0.08 | 0.5 | 0.054231235164961714 | 0.05 | -0.5 | 0.05632665031173404 | 0.05
+R10: THUẾ CƠ SỞ 3 | 66.97366117292974 | 79.64335189507223 | -1 | 177163.5 | 208568.63677231647 | 0.15057458905770107 | -1 | 0.9428967829894476 | 1.077124068484631 | -1 | -0.06203006891943547 | 0.04565984608097564 | 1 | -0.14495314009841537 | -0.09827806911714303 | 0.5 | 0.04239301475543465 | 0.08 | 0.5 | 0.03002912276669223 | 0.05 | 0.5 | 0.0347908463485219 | 0.05
+R11: THUẾ CƠ SỞ 4 | 82.73732847294455 | 79.64335189507223 | 0.5 | 339129.83999999997 | 346534.7186429945 | 0.02136836006502189 | 1 | 1.4206405010061243 | 1.077124068484631 | 1 | 0.03666407921269921 | 0.04565984608097564 | 0.5 | -0.09181995126242065 | -0.09827806911714303 | -0.5 | 0.08423781065630868 | 0.08 | -0.5 | 0.06029644741018745 | 0.05 | -0.5 | 0.0707884719335976 | 0.05
+R12: THUẾ CƠ SỞ 5 | 75.0624427971897 | 79.64335189507223 | 0 | 427616.54000000004 | 395899.08432285005 | 0.08011500135545871 | -1 | 1.2108943570904755 | 1.077124068484631 | 1 | 0.029758251070027757 | 0.04565984608097564 | 0.5 | -0.14305519548957404 | -0.09827806911714303 | 0.5 | 0.08161157529861285 | 0.08 | -0.5 | 0.060028875809341214 | 0.05 | -0.5 | 0.07178670760215185 | 0.05
+R13: THUẾ CƠ SỞ 6 | 86.08490559488432 | 79.64335189507223 | 1 | 273686.76 | 323003.4 | 0.1526814888016659 | -1 | 0.9514007269755148 | 1.077124068484631 | -1 | -0.07599247943154218 | 0.04565984608097564 | 1 | -0.07854462136618488 | -0.09827806911714303 | -0.5 | 0.12698941570127448 | 0.08 | -0.5 | 0.06170492086381018 | 0.05 | -0.5 | 0.11105582756694943 | 0.05
+R14: THUẾ CƠ SỞ 7 | 99.84814713762228 | 79.64335189507223 | 1 | 244650.52 | 282886.31045 | 0.13516309922942757 | -1 | 0.14588210531293155 | 1.077124068484631 | -1 | 0.09583679507433522 | 0.04565984608097564 | -1 | -0.12097049297992156 | -0.09827806911714303 | 0.5 | 0.0957616732876323 | 0.08 | -0.5 | 0.06947724761812732 | 0.05 | -0.5 | 0.07019257464464225 | 0.05
+R15: THUẾ CƠ SỞ 8 | 89.0460845246687 | 79.64335189507223 | 1 | 327258.31999999995 | 382000 | 0.14330282722513102 | -1 | 1.0865420811656232 | 1.077124068484631 | 0.5 | 0.11511835801269797 | 0.04565984608097564 | -1 | -0.08418026261611027 | -0.09827806911714303 | -0.5 | 0.11146989152162064 | 0.08 | -0.5 | 0.07253822889532116 | 0.05 | -0.5 | 0.08509973765297975 | 0.05
+R16: THUẾ CƠ SỞ 9 | 91.11107281781452 | 79.64335189507223 | 1 | 205147.99000000002 | 251326.12785574998 | 0.1837379115722268 | -1 | 1.6399641964694973 | 1.077124068484631 | 1 | 0.14062457373910445 | 0.04565984608097564 | -1 | -0.08284022381786192 | -0.09827806911714303 | -0.5 | 0.13046254476933195 | 0.08 | -1 | 0.0932621541798365 | 0.05 | -0.5 | 0.0977225004246923 | 0.05
+R17: THUẾ CƠ SỞ 10 | 39.540163528033425 | 79.64335189507223 | -1 | 186286.16 | 292429.6976701189 | 0.3629711295254841 | -1 | 1.1171354828657298 | 1.077124068484631 | 0.5 | 0.18818885223960405 | 0.04565984608097564 | -1 | -0.16778212260972883 | -0.09827806911714303 | 1 | 0.03690969932958319 | 0.08 | 0.5 | 0.02749021146743384 | 0.05 | 0.5 | 0.021264242694543505 | 0.05
+R18: THUẾ CƠ SỞ 11 | 79.0346391944807 | 79.64335189507223 | 0 | 238775.45 | 258738.587193 | 0.07715562417487024 | -1 | 0.9243804056796016 | 1.077124068484631 | -1 | 0.061047543336636666 | 0.04565984608097564 | -0.5 | -0.06328005614504512 | -0.09827806911714303 | -0.5 | 0.13953971540721405 | 0.08 | -1 | 0.0831552414604181 | 0.05 | -0.5 | 0.07135457972237762 | 0.05
+R19: THUẾ CƠ SỞ 12 | 82.62134820983471 | 79.64335189507223 | 0.5 | 173651.05 | 311751 | 0.44298157824674184 | -1 | 1.1647680577055188 | 1.077124068484631 | 1 | -0.04244614174118713 | 0.04565984608097564 | 1 | -0.07169819104809555 | -0.09827806911714303 | -0.5 | 0.0920889485964516 | 0.08 | -0.5 | 0.0770016857834013 | 0.05 | -0.5 | 0.041187247957708846 | 0.05
+R20: THUẾ CƠ SỞ 13 | 76.47051920997811 | 79.64335189507223 | 0 | 334125.44999999995 | 374843 | 0.1086256112559126 | -1 | 1.168163641623489 | 1.077124068484631 | 1 | 0.06084979989474652 | 0.04565984608097564 | -0.5 | -0.10618813028298567 | -0.09827806911714303 | 0.5 | 0.06801071900238041 | 0.08 | 0.5 | 0.050288834324405125 | 0.05 | -0.5 | 0.05880511051683333 | 0.05
+R21: THUẾ CƠ SỞ 14 | 85.51352356742557 | 79.64335189507223 | 1 | 173149.38 | 211500 | 0.1813268085106383 | -1 | 1.0693533458327023 | 1.077124068484631 | -0.5 | -0.09026740210000808 | 0.04565984608097564 | 1 | -0.12366754263969426 | -0.09827806911714303 | 0.5 | 0.12311925730823953 | 0.08 | -0.5 | 0.07372472101001228 | 0.05 | -0.5 | 0.09824072052265465 | 0.05
+R22: THUẾ CƠ SỞ 15 | 90.91753922122905 | 79.64335189507223 | 1 | 375444.95999999996 | 376909.1791484004 | 0.003884806285983042 | 1 | 0.940669159965945 | 1.077124068484631 | -1 | -0.0407855066276218 | 0.04565984608097564 | 1 | -0.1309075245134886 | -0.09827806911714303 | 0.5 | 0.1114994281459892 | 0.08 | -0.5 | 0.09590660423821243 | 0.05 | -0.5 | 0.09286822497358348 | 0.05
+R23: THUẾ CƠ SỞ 16 | 145.2040532938158 | 79.64335189507223 | 1 | 87731.47999999998 | 75763.895268 | 0.1579589419164233 | -1 | 0.7846565872075257 | 1.077124068484631 | -1 | 0.8453116596675888 | 0.04565984608097564 | -1 | 0.2062294191064057 | -0.09827806911714303 | -1 | 0.24861428758627313 | 0.08 | -1 | 0.23416711618298827 | 0.05 | -1 | 0.03194898772897543 | 0.05
+R24: THUẾ CƠ SỞ 17 | 123.74419284623632 | 79.64335189507223 | 1 | 92397.09 | 91093.5 | 0.014310461229396132 | 1 | 1.1705242388188848 | 1.077124068484631 | 1 | 1.8507304354107357 | 0.04565984608097564 | -1 | 0.38107938165261535 | -0.09827806911714303 | -1 | 0.08361124018063092 | 0.08 | -0.5 | 0.08208981023228615 | 0.05 | -0.5 | 0.04427240111627303 | 0.05
+R25: THUẾ CƠ SỞ 18 | 96.50527958492523 | 79.64335189507223 | 1 | 596463.9600000001 | 437712.0457 | 0.3626857333709426 | -1 | 1.115350786677123 | 1.077124068484631 | 0.5 | 0.39445384083749013 | 0.04565984608097564 | -1 | -0.2618077278345722 | -0.09827806911714303 | 1 | 0.07630499979588025 | 0.08 | 0.5 | 0.047881897876502044 | 0.05 | 0.5 | 0.035673860565817506 | 0.05
+R26: THUẾ CƠ SỞ 19 | 83.6480482791335 | 79.64335189507223 | 0.5 | 123915.5 | 140499 | 0.11803286856134207 | -1 | 1.0292708622082385 | 1.077124068484631 | -0.5 | 0.13080576412684394 | 0.04565984608097564 | -1 | 0.021745149530370825 | -0.09827806911714303 | -1 | 0.10526487302429768 | 0.08 | -0.5 | 0.07623867397986614 | 0.05 | -0.5 | 0.06639573123385864 | 0.05
+R27: THUẾ CƠ SỞ 20 | 120.37938214739518 | 79.64335189507223 | 1 | 292139.69 | 336966 | 0.13302917801796027 | -1 | 0.7707037827675828 | 1.077124068484631 | -1 | 0.03198750446956189 | 0.04565984608097564 | 0.5 | -0.10986031973385271 | -0.09827806911714303 | 0.5 | 0.12981052448856417 | 0.08 | -0.5 | 0.11047945461880557 | 0.05 | -1 | 0.06459046457830368 | 0.05
+R28: THUẾ CƠ SỞ 21 | 92.56266483920388 | 79.64335189507223 | 1 | 241051.93000000002 | 265044.7475925541 | 0.09052364859324641 | -1 | 0.804154219761405 | 1.077124068484631 | -1 | 0.2452917465351367 | 0.04565984608097564 | -1 | -0.08680515596554302 | -0.09827806911714303 | -0.5 | 0.15676976634530965 | 0.08 | -1 | 0.11572238989795235 | 0.05 | -1 | 0.08173420146160613 | 0.05
+R29: THUẾ CƠ SỞ 22 | 131.39163178091033 | 79.64335189507223 | 1 | 225554.40000000002 | 311583.2377397 | 0.27610226520455317 | -1 | 1.1130975421750158 | 1.077124068484631 | 0.5 | 0.6061137699673239 | 0.04565984608097564 | -1 | -0.1384956935613145 | -0.09827806911714303 | 0.5 | 0.2658952647207466 | 0.08 | -1 | 0.22824244223766543 | 0.05 | -1 | 0.09063116035485523 | 0.05
+R30: THUẾ CƠ SỞ 23 | 68.75573770358346 | 79.64335189507223 | -1 | 135568.59 | 124345 | 0.09026169126221398 | -1 | 1.132277199880912 | 1.077124068484631 | 1 | 0.00029065375591635196 | 0.04565984608097564 | 0.5 | -0.20593248417863547 | -0.09827806911714303 | 1 | 0.05291385640802497 | 0.08 | 0.5 | 0.03890461776335392 | 0.05 | 0.5 | 0.04151797277195885 | 0.05
+R31: THUẾ CƠ SỞ 24 | 102.82864117168428 | 79.64335189507223 | 1 | 154051.26 | 324090 | 0.5246651855965935 | -1 | 0.10735542938025407 | 1.077124068484631 | -1 | 1.0256374005840703 | 0.04565984608097564 | -1 | -0.04081141189495081 | -0.09827806911714303 | -1 | 1.3856199461598842 | 0.08 | -1 | 1.3811665249018177 | 0.05 | -1 | 1.3702415876943894 | 0.05
+R32: THUẾ CƠ SỞ 25 | 81.20340238780614 | 79.64335189507223 | 0.5 | 303427.36 | 210000 | 0.4448921904761904 | -1 | 1.7926138998437382 | 1.077124068484631 | 1 | 0.6815683967541077 | 0.04565984608097564 | -1 | 0.10753871882573202 | -0.09827806911714303 | -1 | 0.08939951550051571 | 0.08 | -0.5 | 0.08603112380188356 | 0.05 | -0.5 | 0.019055974467597433 | 0.05
+
+--- SHEET: 2.Văn phòng (Rows: 37, Cols: 7) ---
+R01: Đơn vị | Chỉ tiêu 1 |  |  | Chỉ tiêu 2 |  | 
+R02:  | Tỷ lệ tồn quá hạn thực hiện TTHC (Đã loại trừ hoàn GTGT và TNCN) theo tháng | Bình quân toàn ngành | Tính điểm | Tỷ lệ đánh giá sự hài lòng (hệ thống Cục Thuế) | So sánh với 90% | Tính điểm
+R03: Phòng Quản lý, Hỗ trợ doanh nghiệp số 1 | 0.2553191489361702 | 0.09799848942598187 | -1 | 0.8619658119658119 | 0.9 | -0.5
+R04: Phòng Quản lý, Hỗ trợ doanh nghiệp số 2 | 0.1951219512195122 | 0.09799848942598187 | -1 | 0.8619658119658119 | 0.9 | -0.5
+R05: Phòng Quản lý, Hỗ trợ doanh nghiệp số 3 | 0.3888888888888889 | 0.09799848942598187 | -1 | 0.8619658119658119 | 0.9 | -0.5
+R06: Phòng Quản lý, Hỗ trợ doanh nghiệp số 4 | 0.23255813953488372 | 0.09799848942598187 | -1 | 0.8619658119658119 | 0.9 | -0.5
+R07: Phòng Quản lý, Hỗ trợ doanh nghiệp số 5 | 0.11538461538461539 | 0.09799848942598187 | -0.5 | 0.8619658119658119 | 0.9 | -0.5
+R08: Phòng Kiểm tra thuế số 1 |  |  |  | 0.8619658119658119 | 0.9 | -0.5
+R09: Phòng Kiểm tra thuế số 2 |  |  |  | 0.8619658119658119 | 0.9 | -0.5
+R10: Phòng Kiểm tra thuế số 3 |  |  |  | 0.8619658119658119 | 0.9 | -0.5
+R11: Phòng Kiểm tra thuế số 4 |  |  |  | 0.8619658119658119 | 0.9 | -0.5
+R12: Phòng Kiểm tra thuế số 5 |  |  |  | 0.8619658119658119 | 0.9 | -0.5
+R13: THUẾ CƠ SỞ 1 | 0.007246376811594203 | 0.09799848942598187 | 1 | 0.9642213642213644 | 0.9 | 1
+R14: THUẾ CƠ SỞ 2 | 0.02185792349726776 | 0.09799848942598187 | 1 | 0.9493706789576316 | 0.9 | 0.5
+R15: THUẾ CƠ SỞ 3 | 0.010309278350515464 | 0.09799848942598187 | 1 | 0.9654882861701234 | 0.9 | 1
+R16: THUẾ CƠ SỞ 4 | 0.23036649214659685 | 0.09799848942598187 | -1 | 0.962295395197758 | 0.9 | 1
+R17: THUẾ CƠ SỞ 5 | 0.05056179775280899 | 0.09799848942598187 | 0.5 | 0.953522504892368 | 0.9 | 1
+R18: THUẾ CƠ SỞ 6 | 0.10074626865671642 | 0.09799848942598187 | -0.5 | 0.9374449339207048 | 0.9 | 0.5
+R19: THUẾ CƠ SỞ 7 | 0.23076923076923078 | 0.09799848942598187 | -1 | 0.973462783171521 | 0.9 | 1
+R20: THUẾ CƠ SỞ 8 | 0.2868020304568528 | 0.09799848942598187 | -1 | 0.9651301439581212 | 0.9 | 1
+R21: THUẾ CƠ SỞ 9 | 0.09473684210526316 | 0.09799848942598187 | 0.5 | 0.968736973739058 | 0.9 | 1
+R22: THUẾ CƠ SỞ 10 | 0.008571428571428572 | 0.09799848942598187 | 1 | 0.9830979393378099 | 0.9 | 1
+R23: THUẾ CƠ SỞ 11 | 0.04522613065326633 | 0.09799848942598187 | 1 | 0.9581311769991017 | 0.9 | 1
+R24: THUẾ CƠ SỞ 12 | 0.010869565217391304 | 0.09799848942598187 | 1 | 0.978121626484347 | 0.9 | 1
+R25: THUẾ CƠ SỞ 13 | 0.07761194029850746 | 0.09799848942598187 | 0.5 | 0.9694809941520468 | 0.9 | 1
+R26: THUẾ CƠ SỞ 14 | 0 | 0.09799848942598187 | 1 | 0.9525207343211257 | 0.9 | 1
+R27: THUẾ CƠ SỞ 15 | 0.08450704225352113 | 0.09799848942598187 | 0.5 | 0.9738730004847309 | 0.9 | 1
+R28: THUẾ CƠ SỞ 16 | 0.3548387096774194 | 0.09799848942598187 | -1 | 0.9449131513647642 | 0.9 | 0.5
+R29: THUẾ CƠ SỞ 17 | 0.01652892561983471 | 0.09799848942598187 | 1 | 0.9344563552833077 | 0.9 | 0.5
+R30: THUẾ CƠ SỞ 18 | 0.15853658536585366 | 0.09799848942598187 | -1 | 0.9580223487244359 | 0.9 | 1
+R31: THUẾ CƠ SỞ 19 | 0.037037037037037035 | 0.09799848942598187 | 1 | 0.9419939577039276 | 0.9 | 0.5
+R32: THUẾ CƠ SỞ 20 | 0.18518518518518517 | 0.09799848942598187 | -1 | 0.9914207005116096 | 0.9 | 1
+R33: THUẾ CƠ SỞ 21 | 0.018867924528301886 | 0.09799848942598187 | 1 | 0.9645083932853716 | 0.9 | 1
+R34: THUẾ CƠ SỞ 22 | 0.0962962962962963 | 0.09799848942598187 | 0.5 | 0.9698378116678772 | 0.9 | 1
+R35: THUẾ CƠ SỞ 23 | 0.037142857142857144 | 0.09799848942598187 | 1 | 0.9707931404072884 | 0.9 | 1
+R36: THUẾ CƠ SỞ 24 | 0.043478260869565216 | 0.09799848942598187 | 1 | 0.9851566265060241 | 0.9 | 1
+R37: THUẾ CƠ SỞ 25 | 0.017543859649122806 | 0.09799848942598187 | 1 | 0.9711947626841243 | 0.9 | 1
+
+--- SHEET: 3. Phòng QLDN2 (Rows: 32, Cols: 10) ---
+R01: Đơn vị | Chỉ tiêu 1 |  |  | Chỉ tiêu 2 |  |  | Chỉ tiêu 3 |  | 
+R02:  | Rà soát TPR | Bình quân toàn ngành | Tính điểm | Xác minh hóa đơn | Bình quân toàn ngành | Tính điểm | Hệ số K | Bình quân toàn ngành | Tính điểm
+R03: Phòng Quản lý, Hỗ trợ doanh nghiệp số 1 | 1 | 0.9936925098554533 | 1 | 0.9981614267328554 | 0.9937896877017508 | 1 | 1 | 0.9943239579803457 | 1
+R04: Phòng Quản lý, Hỗ trợ doanh nghiệp số 2 | 1 | 0.9936925098554533 | 1 | 0.9950362877448953 | 0.9937896877017508 | 1 | 1 | 0.9943239579803457 | 1
+R05: Phòng Quản lý, Hỗ trợ doanh nghiệp số 3 | 1 | 0.9936925098554533 | 1 | 0.9979464497275097 | 0.9937896877017508 | 1 | 1 | 0.9943239579803457 | 1
+R06: Phòng Quản lý, Hỗ trợ doanh nghiệp số 4 | 1 | 0.9936925098554533 | 1 | 0.989185291997116 | 0.9937896877017508 | -0.5 | 1 | 0.9943239579803457 | 1
+R07: Phòng Quản lý, Hỗ trợ doanh nghiệp số 5 | 1 | 0.9936925098554533 | 1 | 0.9991341991341991 | 0.9937896877017508 | 1 | 1 | 0.9943239579803457 | 1
+R08: THUẾ CƠ SỞ 1 | 0.9315068493150684 | 0.9936925098554533 | -1 | 0.9883116883116884 | 0.9937896877017508 | -0.5 | 0.9984459984459985 | 0.9943239579803457 | 1
+R09: THUẾ CƠ SỞ 2 | 1 | 0.9936925098554533 | 1 | 0.9862943512232611 | 0.9937896877017508 | -0.5 | 1 | 0.9943239579803457 | 1
+R10: THUẾ CƠ SỞ 3 | 1 | 0.9936925098554533 | 1 | 0.9994355862847467 | 0.9937896877017508 | 1 | 1 | 0.9943239579803457 | 1
+R11: THUẾ CƠ SỞ 4 | 1 | 0.9936925098554533 | 1 | 0.994929626715622 | 0.9937896877017508 | 1 | 1 | 0.9943239579803457 | 1
+R12: THUẾ CƠ SỞ 5 | 0.9809523809523809 | 0.9936925098554533 | -0.5 | 0.9946914399469144 | 0.9937896877017508 | 1 | 0.9914841849148418 | 0.9943239579803457 | -0.5
+R13: THUẾ CƠ SỞ 6 | 1 | 0.9936925098554533 | 1 | 0.9895174708818636 | 0.9937896877017508 | -0.5 | 0.9518248175182482 | 0.9943239579803457 | -0.5
+R14: THUẾ CƠ SỞ 7 | 1 | 0.9936925098554533 | 1 | 0.9859830320914792 | 0.9937896877017508 | -0.5 | 0.9955005624296963 | 0.9943239579803457 | 1
+R15: THUẾ CƠ SỞ 8 | 1 | 0.9936925098554533 | 1 | 0.9969607942457704 | 0.9937896877017508 | 1 | 0.9918793503480279 | 0.9943239579803457 | -0.5
+R16: THUẾ CƠ SỞ 9 | 0.975 | 0.9936925098554533 | -0.5 | 0.9849269901083373 | 0.9937896877017508 | -0.5 | 0.9744245524296675 | 0.9943239579803457 | -0.5
+R17: THUẾ CƠ SỞ 10 | 1 | 0.9936925098554533 | 1 | 0.9889558232931727 | 0.9937896877017508 | -0.5 | 1 | 0.9943239579803457 | 1
+R18: THUẾ CƠ SỞ 11 | 1 | 0.9936925098554533 | 1 | 0.9817629179331308 | 0.9937896877017508 | -0.5 | 0.9937694704049844 | 0.9943239579803457 | -0.5
+R19: THUẾ CƠ SỞ 12 | 1 | 0.9936925098554533 | 1 | 1 | 0.9937896877017508 | 1 | 0.9968708091193563 | 0.9943239579803457 | 1
+R20: THUẾ CƠ SỞ 13 | 0.9965753424657534 | 0.9936925098554533 | 1 | 0.9997083272568178 | 0.9937896877017508 | 1 | 0.9953379953379954 | 0.9943239579803457 | 1
+R21: THUẾ CƠ SỞ 14 | 1 | 0.9936925098554533 | 1 | 0.9993812838360402 | 0.9937896877017508 | 1 | 0.9966101694915255 | 0.9943239579803457 | 1
+R22: THUẾ CƠ SỞ 15 | 1 | 0.9936925098554533 | 1 | 0.9955221358567083 | 0.9937896877017508 | 1 | 0.9986868023637557 | 0.9943239579803457 | 1
+R23: THUẾ CƠ SỞ 16 | 1 | 0.9936925098554533 | 1 | 0.9911816578483245 | 0.9937896877017508 | -0.5 | 0.9614243323442137 | 0.9943239579803457 | -0.5
+R24: THUẾ CƠ SỞ 17 | 1 | 0.9936925098554533 | 1 | 0.9681908548707754 | 0.9937896877017508 | -0.5 | 1 | 0.9943239579803457 | 1
+R25: THUẾ CƠ SỞ 18 | 1 | 0.9936925098554533 | 1 | 0.9890863735578422 | 0.9937896877017508 | -0.5 | 0.9964664310954063 | 0.9943239579803457 | 1
+R26: THUẾ CƠ SỞ 19 | 1 | 0.9936925098554533 | 1 | 0.9972404277337013 | 0.9937896877017508 | 1 | 0.9987063389391979 | 0.9943239579803457 | 1
+R27: THUẾ CƠ SỞ 20 | 0.9818181818181818 | 0.9936925098554533 | -0.5 | 1 | 0.9937896877017508 | 1 | 0.9921402660217654 | 0.9943239579803457 | -0.5
+R28: THUẾ CƠ SỞ 21 | 1 | 0.9936925098554533 | 1 | 0.9995284131101155 | 0.9937896877017508 | 1 | 1 | 0.9943239579803457 | 1
+R29: THUẾ CƠ SỞ 22 | 1 | 0.9936925098554533 | 1 | 0.9965102753005041 | 0.9937896877017508 | 1 | 1 | 0.9943239579803457 | 1
+R30: THUẾ CƠ SỞ 23 | 1 | 0.9936925098554533 | 1 | 0.9863523573200993 | 0.9937896877017508 | -0.5 | 0.9877300613496932 | 0.9943239579803457 | -0.5
+R31: THUẾ CƠ SỞ 24 | 1 | 0.9936925098554533 | 1 | 0.9900559353635798 | 0.9937896877017508 | -0.5 | 1 | 0.9943239579803457 | 1
+R32: THUẾ CƠ SỞ 25 | 1 | 0.9936925098554533 | 1 | 0.9979550102249489 | 0.9937896877017508 | 1 | 1 | 0.9943239579803457 | 1
+
+--- SHEET: 4. Phòng QLDN3 (Rows: 32, Cols: 7) ---
+R01: Đơn vị | Chỉ tiêu 1 |  |  | Chỉ tiêu 2 |  | 
+R02:  | Đóng mã giải thể (Không bao gồm đã chuyển kiểm tra tại trụ sở NNT) theo gói của Phòng QLDN3 | Bình quân toàn ngành | Tính điểm | Kiểm tra tại bàn | Bình quân toàn ngành | Tính điểm
+R03: Phòng Quản lý, Hỗ trợ doanh nghiệp số 1 | 0.4430379746835443 | 0.49077733860342554 | -0.5 | 0.05976095617529881 | 0.2074697912852435 | -1
+R04: Phòng Quản lý, Hỗ trợ doanh nghiệp số 2 | 0.4651685393258427 | 0.49077733860342554 | -0.5 | 0.155893536121673 | 0.2074697912852435 | -1
+R05: Phòng Quản lý, Hỗ trợ doanh nghiệp số 3 | 0.525 | 0.49077733860342554 | 0.5 | 0.2413793103448276 | 0.2074697912852435 | 0.5
+R06: Phòng Quản lý, Hỗ trợ doanh nghiệp số 4 | 0.47767857142857145 | 0.49077733860342554 | -0.5 | 0.20982142857142858 | 0.2074697912852435 | 0.5
+R07: Phòng Quản lý, Hỗ trợ doanh nghiệp số 5 | 0.3291866028708134 | 0.49077733860342554 | -1 | 0.04526748971193416 | 0.2074697912852435 | -1
+R08: THUẾ CƠ SỞ 1 | 0.39763779527559057 | 0.49077733860342554 | -1 | 0.18556701030927836 | 0.2074697912852435 | -0.5
+R09: THUẾ CƠ SỞ 2 | 0.46108949416342415 | 0.49077733860342554 | -0.5 | 0.12364760432766615 | 0.2074697912852435 | -1
+R10: THUẾ CƠ SỞ 3 | 0.34772182254196643 | 0.49077733860342554 | -1 | 0.18277310924369747 | 0.2074697912852435 | -0.5
+R11: THUẾ CƠ SỞ 4 | 0.41112618724559025 | 0.49077733860342554 | -1 | 0.21137440758293838 | 0.2074697912852435 | 0.5
+R12: THUẾ CƠ SỞ 5 | 0.5190217391304348 | 0.49077733860342554 | 0.5 | 0.26993865030674846 | 0.2074697912852435 | 1
+R13: THUẾ CƠ SỞ 6 | 0.47413793103448276 | 0.49077733860342554 | -0.5 | 0.21541950113378686 | 0.2074697912852435 | 0.5
+R14: THUẾ CƠ SỞ 7 | 0.36895674300254455 | 0.49077733860342554 | -1 | 0.23155216284987276 | 0.2074697912852435 | 0.5
+R15: THUẾ CƠ SỞ 8 | 0.539906103286385 | 0.49077733860342554 | 0.5 | 0.21125265392781317 | 0.2074697912852435 | 0.5
+R16: THUẾ CƠ SỞ 9 | 0.4228395061728395 | 0.49077733860342554 | -1 | 0.007142857142857143 | 0.2074697912852435 | -1
+R17: THUẾ CƠ SỞ 10 | 0.30434782608695654 | 0.49077733860342554 | -1 | 0.3225806451612903 | 0.2074697912852435 | 1
+R18: THUẾ CƠ SỞ 11 | 0.45501730103806226 | 0.49077733860342554 | -0.5 | 0.23578595317725753 | 0.2074697912852435 | 0.5
+R19: THUẾ CƠ SỞ 12 | 0.4575 | 0.49077733860342554 | -0.5 | 0.07874015748031496 | 0.2074697912852435 | -1
+R20: THUẾ CƠ SỞ 13 | 0.4606240713224368 | 0.49077733860342554 | -0.5 | 0.24730215827338128 | 0.2074697912852435 | 0.5
+R21: THUẾ CƠ SỞ 14 | 0.5116279069767442 | 0.49077733860342554 | 0.5 | 0.33505154639175255 | 0.2074697912852435 | 1
+R22: THUẾ CƠ SỞ 15 | 0.6527958387516255 | 0.49077733860342554 | 1 | 0.19981412639405205 | 0.2074697912852435 | -0.5
+R23: THUẾ CƠ SỞ 16 | 0.5157894736842106 | 0.49077733860342554 | 0.5 | 0.25 | 0.2074697912852435 | 0.5
+R24: THUẾ CƠ SỞ 17 | 0.5714285714285714 | 0.49077733860342554 | 1 | 0.12396694214876033 | 0.2074697912852435 | -1
+R25: THUẾ CƠ SỞ 18 | 0.45182724252491696 | 0.49077733860342554 | -0.5 | 0.10552763819095477 | 0.2074697912852435 | -1
+R26: THUẾ CƠ SỞ 19 | 0.6543778801843319 | 0.49077733860342554 | 1 | 0.15476190476190477 | 0.2074697912852435 | -1
+R27: THUẾ CƠ SỞ 20 | 0.7973421926910299 | 0.49077733860342554 | 1 | 0.27450980392156865 | 0.2074697912852435 | 1
+R28: THUẾ CƠ SỞ 21 | 0.5907172995780591 | 0.49077733860342554 | 1 | 0.44244604316546765 | 0.2074697912852435 | 1
+R29: THUẾ CƠ SỞ 22 | 0.6308411214953271 | 0.49077733860342554 | 1 | 0.2185430463576159 | 0.2074697912852435 | 0.5
+R30: THUẾ CƠ SỞ 23 | 0.6822429906542056 | 0.49077733860342554 | 1 | 0.16939890710382513 | 0.2074697912852435 | -0.5
+R31: THUẾ CƠ SỞ 24 | 0.7450980392156863 | 0.49077733860342554 | 1 | 0.20270270270270271 | 0.2074697912852435 | -0.5
+R32: THUẾ CƠ SỞ 25 | 0.9243697478991597 | 0.49077733860342554 | 1 | 0.225 | 0.2074697912852435 | 0.5
+
+--- SHEET: 5. Phòng QLDN5 (Rows: 32, Cols: 7) ---
+R01: Đơn vị | Chỉ tiêu 1 |  |  | Chỉ tiêu 2 |  | 
+R02:  | Xử phạt VPHC | Bình quân toàn ngành | Tính điểm | Tỷ lệ tồn đóng mã giải thể (Không bao gồm đã chuyển kiểm tra tại trụ sở NNT) phát sinh mới | Bình quân toàn ngành | Tính điểm
+R03: Phòng Quản lý, Hỗ trợ doanh nghiệp số 1 | 1 | 0.7973310739250159 | 1 | 0.6875 | 0.6280117711973515 | 1
+R04: Phòng Quản lý, Hỗ trợ doanh nghiệp số 2 | 0.9772727272727273 | 0.7973310739250159 | 1 | 0.7058823529411765 | 0.6280117711973515 | 1
+R05: Phòng Quản lý, Hỗ trợ doanh nghiệp số 3 | 0.9861111111111112 | 0.7973310739250159 | 1 | 0.4166666666666667 | 0.6280117711973515 | -1
+R06: Phòng Quản lý, Hỗ trợ doanh nghiệp số 4 | 1 | 0.7973310739250159 | 1 | 0.6923076923076923 | 0.6280117711973515 | 1
+R07: Phòng Quản lý, Hỗ trợ doanh nghiệp số 5 | 1 | 0.7973310739250159 | 1 | 0.7027027027027027 | 0.6280117711973515 | 1
+R08: THUẾ CƠ SỞ 1 | 0.7397563676633444 | 0.7973310739250159 | -1 | 0.7071129707112971 | 0.6280117711973515 | 1
+R09: THUẾ CƠ SỞ 2 | 0.8226299694189603 | 0.7973310739250159 | 0.5 | 0.630272952853598 | 0.6280117711973515 | 0.5
+R10: THUẾ CƠ SỞ 3 | 0.927308447937132 | 0.7973310739250159 | 1 | 0.7277936962750716 | 0.6280117711973515 | 1
+R11: THUẾ CƠ SỞ 4 | 0.771211022480058 | 0.7973310739250159 | -0.5 | 0.5650459921156373 | 0.6280117711973515 | -1
+R12: THUẾ CƠ SỞ 5 | 0.7291803278688525 | 0.7973310739250159 | -1 | 0.6248196248196248 | 0.6280117711973515 | -0.5
+R13: THUẾ CƠ SỞ 6 | 0.8845007451564829 | 0.7973310739250159 | 1 | 0.6628175519630485 | 0.6280117711973515 | 0.5
+R14: THUẾ CƠ SỞ 7 | 0.9002647837599294 | 0.7973310739250159 | 1 | 0.5984455958549223 | 0.6280117711973515 | -0.5
+R15: THUẾ CƠ SỞ 8 | 0.8362305580969808 | 0.7973310739250159 | 0.5 | 0.675177304964539 | 0.6280117711973515 | 0.5
+R16: THUẾ CƠ SỞ 9 | 0.8260869565217391 | 0.7973310739250159 | 0.5 | 0.726775956284153 | 0.6280117711973515 | 1
+R17: THUẾ CƠ SỞ 10 | 0.910377358490566 | 0.7973310739250159 | 1 | 0.5704918032786885 | 0.6280117711973515 | -1
+R18: THUẾ CƠ SỞ 11 | 0.9510061242344707 | 0.7973310739250159 | 1 | 0.6755102040816326 | 0.6280117711973515 | 0.5
+R19: THUẾ CƠ SỞ 12 | 0.4253731343283582 | 0.7973310739250159 | -1 | 0.6603260869565217 | 0.6280117711973515 | 0.5
+R20: THUẾ CƠ SỞ 13 | 0.7874794069192751 | 0.7973310739250159 | -0.5 | 0.6765676567656765 | 0.6280117711973515 | 0.5
+R21: THUẾ CƠ SỞ 14 | 0.765807962529274 | 0.7973310739250159 | -0.5 | 0.5967741935483871 | 0.6280117711973515 | -0.5
+R22: THUẾ CƠ SỞ 15 | 0.8623578695391981 | 0.7973310739250159 | 1 | 0.6073825503355704 | 0.6280117711973515 | -0.5
+R23: THUẾ CƠ SỞ 16 | 0.8518518518518519 | 0.7973310739250159 | 1 | 0.5096153846153846 | 0.6280117711973515 | -1
+R24: THUẾ CƠ SỞ 17 | 0.8938547486033519 | 0.7973310739250159 | 1 | 0.28205128205128205 | 0.6280117711973515 | -1
+R25: THUẾ CƠ SỞ 18 | 0.889168765743073 | 0.7973310739250159 | 1 | 0.4946236559139785 | 0.6280117711973515 | -1
+R26: THUẾ CƠ SỞ 19 | 0.5643776824034334 | 0.7973310739250159 | -1 | 0.6283422459893048 | 0.6280117711973515 | 0.5
+R27: THUẾ CƠ SỞ 20 | 0.828125 | 0.7973310739250159 | 0.5 | 0.8029925187032418 | 0.6280117711973515 | 1
+R28: THUẾ CƠ SỞ 21 | 0.7710084033613446 | 0.7973310739250159 | -0.5 | 0.6189624329159212 | 0.6280117711973515 | -0.5
+R29: THUẾ CƠ SỞ 22 | 0.34513274336283184 | 0.7973310739250159 | -1 | 0.5990675990675991 | 0.6280117711973515 | -0.5
+R30: THUẾ CƠ SỞ 23 | 0.9598540145985401 | 0.7973310739250159 | 1 | 0.680921052631579 | 0.6280117711973515 | 1
+R31: THUẾ CƠ SỞ 24 | 0.8058968058968059 | 0.7973310739250159 | 0.5 | 0.7102272727272727 | 0.6280117711973515 | 1
+R32: THUẾ CƠ SỞ 25 | 0.735632183908046 | 0.7973310739250159 | -1 | 0.6142857142857143 | 0.6280117711973515 | -0.5
+
+--- SHEET: 6.1. Phòng CNTK (Rows: 37, Cols: 39) ---
+R02: BẢNG CHẤM ĐIỂM CÔNG TÁC QLT ĐỐI VỚI CNKD, HKD |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+R04: Cơ quan thuế | A - Nhóm điểm theo tiêu chí của Cục thuế (55%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  | B - Nhóm điểm tiêu chí của Thuế TP Hà Nội (45%) |  |  |  |  |  |  |  | 
+R05:  | Tổng thu trên địa bàn (Điểm chấm 1) |  |  | Công tác đăng ký sử dụng Etax mobile (Điểm chấm 1) |  |  | Công tác quản lý khai thuế đúng hạn (Điểm chấm 0,5) |  |  | Công tác gửi bảng kê STK/ví điện tử (Điểm chấm 1) |  |  | Công tác sử dụng hóa đơn điện tử của HKD (Điểm chấm 1) |  |  | Công tác quản lý khai thuế (Điểm chấm 1) |  |  | Công tác quản lý rủi ro hóa đơn, kê khai hộ kinh doanh (Điểm chấm 0,5) |  |  |  | Công tác kiểm tra hộ kinh doanh (Điểm chấm 2) | 
+R06:  | Số tiền (triệu đồng) | Dự toán giao dự kiến (triệu đồng) | So sánh với dự toán (%) | Số HKD đã đăng ký sử dụng | Số HKD phải đăng ký sử dụng | Tỷ lệ đã đăng ký sử dụng (%) | Tổng số tờ khai đúng hạn | Tổng số tờ khai chính thức | Tỷ lệ kê khai đúng hạn (%) | Số HKD đã khai thuế | Số HKD phải kê khai | Tỷ lệ đã kê khai thuế (%) | Số HKD đã sử dụng | Số HKD đã đăng ký | Tỷ lệ sử dụng hóa đơn điện tử (%) | Số HKD đã khai thuế | Số HKD phải kê khai | Tỷ lệ đã kê khai thuế (%) | Số HKD đã thực hiện | Số HKD giao kiểm tra | Số thuế tăng thu | Tỷ lệ triển khai | Số HKD giao kiểm tra | Số HKD đã thực hiện
+R07:  | (1) | (2) | (3)=(1)/(2) | (4) | (5) | (6)=(4)/(5) | (10) | (11) | (12)=(10)/(11) | (13) | (14) | (15)=(13)/(14) | (16) | (17) | (18)=(16)/(17) | (7) | (8) | (9)=(7)/(8) | (18) | (19) | (20) | (21)=(18)/(19) | (22) | (23)
+R08: Thuế cơ sở 1 | 191043 | 257458 | 0.7420355941551632 | 10325 | 10802 | 0.9558415108313275 | 10999 | 11113 | 0.9897417439035364 | 9689 | 10164 | 0.9532664305391578 | 3196 | 3316 | 0.9638118214716526 | 2361 | 2448 | 0.9644607843137255 | 230 | 241 | 41250000 | 0.9543568464730291 | 35 | 28
+R09: Thuế cơ sở 2 | 112936 | 165181 | 0.6837105962550172 | 9109 | 9694 | 0.9396533938518671 | 3775 | 3850 | 0.9805194805194806 | 6052 | 7071 | 0.8558902559751096 | 521 | 557 | 0.9353680430879713 | 1817 | 1858 | 0.9779332615715823 | 63 | 80 |  | 0.7875 | 23 | 23
+R10: Thuế cơ sở 3 | 188056 | 190226 | 0.9885925162701208 | 11267 | 11848 | 0.950962187711006 | 8233 | 8299 | 0.9920472346065791 | 7851 | 9235 | 0.8501353546291284 | 1908 | 2183 | 0.8740265689418232 | 1858 | 1935 | 0.9602067183462533 | 350 | 352 |  | 0.9943181818181818 | 35 | 35
+R11: Thuế cơ sở 4 | 217508 | 241142 | 0.9019913577891865 | 14606 | 15994 | 0.9132174565462048 | 6236 | 6521 | 0.9562950467719675 | 9379 | 14145 | 0.663061152350654 | 1423 | 1582 | 0.8994943109987358 | 2948 | 3578 | 0.8239239798770263 | 243 | 244 | 3015013398.3333335 | 0.9959016393442623 | 35 | 31
+R12: Thuế cơ sở 5 | 215678 | 302759 | 0.7123751895071657 | 13366 | 15351 | 0.8706924630317243 | 4900 | 5111 | 0.9587164938368226 | 7286 | 10376 | 0.7021973785659213 | 847 | 941 | 0.900106269925611 | 2394 | 3420 | 0.7 | 99 | 159 | 5250000 | 0.6226415094339622 | 35 | 23
+R13: Thuế cơ sở 6 | 126277 | 149447 | 0.8449617590182473 | 10407 | 12349 | 0.8427403028585311 | 3843 | 3964 | 0.9694752774974773 | 7955 | 11343 | 0.7013135854712157 | 623 | 720 | 0.8652777777777778 | 1769 | 2241 | 0.7893797411869701 | 121 | 122 |  | 0.9918032786885246 | 22 | 15
+R14: Thuế cơ sở 7 | 124929 | 169259 | 0.7380936907343184 | 12080 | 14345 | 0.8421052631578947 | 4149 | 4282 | 0.9689397477814106 | 6889 | 9810 | 0.7022426095820591 | 681 | 777 | 0.8764478764478765 | 2225 | 2323 | 0.95781317262161 | 100 | 106 |  | 0.9433962264150944 | 22 | 17
+R15: Thuế cơ sở 8 | 202058 | 260567 | 0.7754550652999037 | 16303 | 19415 | 0.8397115632243111 | 5419 | 5612 | 0.9656094084105489 | 9213 | 14719 | 0.6259256742985257 | 945 | 1070 | 0.883177570093458 | 3628 | 4465 | 0.812541993281075 | 183 | 188 |  | 0.973404255319149 | 35 | 14
+R16: Thuế cơ sở 9 | 102461 | 148919 | 0.6880317488030406 | 9797 | 11989 | 0.8171657352573192 | 3638 | 3761 | 0.9672959319329966 | 8942 | 10614 | 0.842472206519691 | 562 | 669 | 0.8400597907324364 | 2964 | 3210 | 0.9233644859813084 | 43 | 97 |  | 0.44329896907216493 | 18 | 15
+R17: Thuế cơ sở 10 | 66398 | 76671 | 0.8660119210653311 | 10610 | 11829 | 0.8969481782061036 | 3219 | 3303 | 0.9745685740236149 | 8051 | 11830 | 0.6805579036348267 | 689 | 799 | 0.8623279098873592 | 3046 | 3136 | 0.9713010204081632 | 67 | 157 |  | 0.4267515923566879 | 20 | 19
+R18: Thuế cơ sở 11 | 118901 | 140662 | 0.8452958155009882 | 12531 | 13260 | 0.9450226244343891 | 4281 | 4416 | 0.9694293478260869 | 9916 | 11984 | 0.8274365821094793 | 768 | 847 | 0.9067296340023613 | 2347 | 2732 | 0.8590775988286969 | 113 | 113 |  | 1 | 18 | 8
+R19: Thuế cơ sở 12 | 148878 | 155613 | 0.9567195542788841 | 14718 | 15488 | 0.9502840909090909 | 11681 | 11893 | 0.9821743882956361 | 11268 | 14758 | 0.7635180918823689 | 3266 | 3439 | 0.9496946786856645 | 3567 | 3787 | 0.9419065223131766 | 419 | 426 |  | 0.9835680751173709 | 24 | 22
+R20: Thuế cơ sở 13 | 198913 | 246910 | 0.8056093313353043 | 14915 | 18814 | 0.7927607101094929 | 6200 | 6414 | 0.9666354848768319 | 13997 | 17398 | 0.8045177606621451 | 943 | 1208 | 0.7806291390728477 | 3727 | 4100 | 0.9090243902439025 | 144 | 145 |  | 0.993103448275862 | 35 | 34
+R21: Thuế cơ sở 14 | 108754 | 115607 | 0.9407215826031295 | 12428 | 13369 | 0.9296132844640587 | 4663 | 4787 | 0.9740965113850011 | 10123 | 13463 | 0.7519126494837703 | 707 | 845 | 0.8366863905325443 | 3153 | 3888 | 0.8109567901234568 | 122 | 122 |  | 1 | 25 | 25
+R22: Thuế cơ sở 15 | 237689 | 238276 | 0.9975364703117393 | 20918 | 22015 | 0.9501703384056325 | 7757 | 8017 | 0.9675689160533866 | 19472 | 22207 | 0.8768406358355474 | 1264 | 1469 | 0.8604492852280463 | 5479 | 5920 | 0.9255067567567568 | 203 | 297 | 30099600 | 0.6835016835016835 | 32 | 23
+R23: Thuế cơ sở 16 | 29243 | 44733 | 0.6537232021102989 | 5395 | 5558 | 0.9706729039222742 | 1498 | 1526 | 0.981651376146789 | 5319 | 5664 | 0.9390889830508474 | 398 | 444 | 0.8963963963963963 | 1047 | 1079 | 0.9703429101019463 | 70 | 70 |  | 1 | 20 | 8
+R24: Thuế cơ sở 17 | 47004 | 44412 | 1.058362604701432 | 7274 | 7642 | 0.9518450667364564 | 2930 | 2973 | 0.9855364951227716 | 7270 | 8022 | 0.906257791074545 | 365 | 421 | 0.8669833729216152 | 1585 | 1716 | 0.9236596736596736 | 83 | 83 |  | 1 | 16 | 10
+R25: Thuế cơ sở 18 | 73686 | 92335 | 0.7980289164455515 | 17578 | 22133 | 0.7941987078118646 | 4086 | 4214 | 0.969625059326056 | 11594 | 22847 | 0.5074626865671642 | 995 | 1304 | 0.7630368098159509 | 3898 | 5062 | 0.7700513630975899 | 138 | 139 |  | 0.9928057553956835 | 17 | 1
+R26: Thuế cơ sở 19 | 82012 | 116871 | 0.7017309683326061 | 15042 | 17717 | 0.8490150702714907 | 5219 | 5450 | 0.9576146788990826 | 13378 | 18613 | 0.718744963197765 | 814 | 969 | 0.8400412796697626 | 4844 | 5280 | 0.9174242424242425 | 87 | 87 |  | 1 | 25 | 20
+R27: Thuế cơ sở 20 | 45525 | 53208 | 0.8556044203879116 | 7533 | 8700 | 0.8658620689655172 | 2009 | 2096 | 0.9584923664122137 | 6055 | 9272 | 0.6530414150129422 | 247 | 308 | 0.801948051948052 | 1868 | 2147 | 0.8700512342803912 | 46 | 46 |  | 1 | 20 | 6
+R28: Thuế cơ sở 21 | 118222 | 95861 | 1.2332648313704218 | 14711 | 17344 | 0.8481895756457565 | 4635 | 4765 | 0.9727177334732424 | 11133 | 18743 | 0.5939817531878568 | 963 | 1171 | 0.8223740392826644 | 3166 | 4496 | 0.7041814946619217 | 83 | 86 |  | 0.9651162790697675 | 23 | 23
+R29: Thuế cơ sở 22 | 68272 | 82922 | 0.823327946745134 | 13037 | 13685 | 0.952648885641213 | 3221 | 3326 | 0.9684305472038485 | 11277 | 13863 | 0.8134602899805237 | 470 | 540 | 0.8703703703703703 | 3504 | 3838 | 0.9129755080771235 | 79 | 79 |  | 1 | 21 | 20
+R30: Thuế cơ sở 23 | 97133 | 99335 | 0.9778325867015654 | 10520 | 11358 | 0.9262194048247931 | 4514 | 4651 | 0.9705439690389164 | 9761 | 12014 | 0.8124687864158482 | 838 | 938 | 0.8933901918976546 | 2729 | 3050 | 0.8947540983606558 | 246 | 249 |  | 0.9879518072289156 | 25 | 25
+R31: Thuế cơ sở 24 | 28398 | 65983 | 0.4303835836503342 | 6397 | 6711 | 0.9532111458798986 | 2135 | 2217 | 0.9630130807397383 | 5989 | 7021 | 0.8530123913972368 | 297 | 334 | 0.8892215568862275 | 1015 | 1065 | 0.9530516431924883 | 17 | 66 |  | 0.25757575757575757 | 15 | 15
+R32: Thuế cơ sở 25 | 45227 | 49224 | 0.9187997724687145 | 7067 | 7953 | 0.8885954985540048 | 3547 | 3634 | 0.9760594386351128 | 6426 | 8755 | 0.7339805825242719 | 965 | 1079 | 0.8943466172381835 | 1573 | 2009 | 0.7829766052762569 | 192 | 192 |  | 1 | 13 | 0
+R33: Tổng | 2995201 | 3603581 | 0.8311734910357225 | 297934 | 335363 | 0.8883925775950239 | 122787 | 126195 | 0.9729941756804945 | 234285 | 313931 | 0.7462945679146055 | 24695 | 27930 | 0.8841747225205872 | 68512 | 78783 | 0.8696292347333816 | 3541 | 3946 | 3091612998.3333335 | 0.8973644196654841 | 609 | 460
+R34:  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 28 | 28
+R35:  | 2476200 | 4459 | 1983 | 283.2857142857143 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 637 | 488
+R36:  |  |  |  | 2266.285714285714 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+R37:  |  |  |  | 5261.285714285714 | 6700 | 0.7852665245202558 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+--- SHEET: 7. Phòng Ktr1 (Rows: 32, Cols: 13) ---
+R01: Đơn vị | Chỉ tiêu 1 |  |  | Chỉ tiêu 2 |  |  | Chỉ tiêu 3 |  |  | Chỉ tiêu 4 |  | 
+R02:  | Tỷ lệ hoàn thành kế hoạch | Bình quân toàn ngành | Tính điểm | Tỷ lệ đôn đốc nộp truy thu, xử phạt | Bình quân toàn ngành | Tính điểm | Kiểm tra đóng mã giải thể | Bình quân toàn ngành | Tính điểm | Tỷ lệ hoàn thành kế hoạch đích danh 2026 | Bình quân toàn ngành | Tính điểm
+R03: Phòng Kiểm tra thuế số 1 | 0.9383116883116883 | 0.8306559882544573 | 1 | 0.9569901262779238 | 0.9473300208733966 | 0.5 | 0.82 | 0.82 | 0 | 0.30597014925373134 | 0.39752185351777986 | -1
+R04: Phòng Kiểm tra thuế số 2 | 0.7777777777777778 | 0.8306559882544573 | -1 | 0.9562934718390543 | 0.9473300208733966 | 0.5 | 0.91 | 0.82 | 1 | 0.21561338289962825 | 0.39752185351777986 | -1
+R05: Phòng Kiểm tra thuế số 3 | 0.9047619047619048 | 0.8306559882544573 | 1 | 0.9782176977566841 | 0.9473300208733966 | 0.5 | 0.8 | 0.82 | -0.5 | 0.26765799256505574 | 0.39752185351777986 | -1
+R06: Phòng Kiểm tra thuế số 4 | 0.9707792207792207 | 0.8306559882544573 | 1 | 0.9658175397480052 | 0.9473300208733966 | 0.5 | 0.79 | 0.82 | -0.5 | 0.29850746268656714 | 0.39752185351777986 | -1
+R07: Phòng Kiểm tra thuế số 5 | 1.034920634920635 | 0.8306559882544573 | 1 | 0.9909467239991259 | 0.9473300208733966 | 0.5 | 0.82 | 0.82 | 0 | 0.14925373134328357 | 0.39752185351777986 | -1
+R08: THUẾ CƠ SỞ 1 | 0.8207070707070707 | 0.8306559882544573 | -0.5 | 0.9309822552764719 | 0.9473300208733966 | -0.5 | 0.85 | 0.82 | 0.5 | 0.3352112676056338 | 0.39752185351777986 | -1
+R09: THUẾ CƠ SỞ 2 | 0.8218562874251497 | 0.8306559882544573 | -0.5 | 0.9523486408795158 | 0.9473300208733966 | 0.5 | 0.9 | 0.82 | 1 | 0.4335548172757475 | 0.39752185351777986 | 0.5
+R10: THUẾ CƠ SỞ 3 | 0.7728937728937729 | 0.8306559882544573 | -1 | 0.9956753657869809 | 0.9473300208733966 | 0.5 | 0.95 | 0.82 | 1 | 0.5733695652173914 | 0.39752185351777986 | 1
+R11: THUẾ CƠ SỞ 4 | 0.7620087336244541 | 0.8306559882544573 | -1 | 0.9865972921158703 | 0.9473300208733966 | 0.5 | 0.8 | 0.82 | -0.5 | 0.38106796116504854 | 0.39752185351777986 | -0.5
+R12: THUẾ CƠ SỞ 5 | 0.9301310043668122 | 0.8306559882544573 | 1 | 0.9511224028803016 | 0.9473300208733966 | 0.5 | 0.86 | 0.82 | 0.5 | 0.3365617433414044 | 0.39752185351777986 | -1
+R13: THUẾ CƠ SỞ 6 | 0.8663366336633663 | 0.8306559882544573 | 0.5 | 0.7977688619338438 | 0.9473300208733966 | -1 | 0.94 | 0.82 | 1 | 0.25688073394495414 | 0.39752185351777986 | -1
+R14: THUẾ CƠ SỞ 7 | 0.9955156950672646 | 0.8306559882544573 | 1 | 0.9446523613637866 | 0.9473300208733966 | -0.5 | 0.66 | 0.82 | -1 | 0.4912718204488778 | 0.39752185351777986 | 1
+R15: THUẾ CƠ SỞ 8 | 0.9203296703296703 | 0.8306559882544573 | 1 | 0.9554334218635951 | 0.9473300208733966 | 0.5 | 0.62 | 0.82 | -1 | 0.3673780487804878 | 0.39752185351777986 | -0.5
+R16: THUẾ CƠ SỞ 9 | 0.852803738317757 | 0.8306559882544573 | 0.5 | 0.7693026496527484 | 0.9473300208733966 | -1 | 0.89 | 0.82 | 1 | 0.3958333333333333 | 0.39752185351777986 | -0.5
+R17: THUẾ CƠ SỞ 10 | 0.8442982456140351 | 0.8306559882544573 | 0.5 | 0.970115880881632 | 0.9473300208733966 | 0.5 | 0.89 | 0.82 | 1 | 0.5922330097087378 | 0.39752185351777986 | 1
+R18: THUẾ CƠ SỞ 11 | 0.691764705882353 | 0.8306559882544573 | -1 | 0.9609848952801784 | 0.9473300208733966 | 0.5 | 0.86 | 0.82 | 0.5 | 0.4588235294117647 | 0.39752185351777986 | 1
+R19: THUẾ CƠ SỞ 12 | 0.7617554858934169 | 0.8306559882544573 | -1 | 0.9893677990277026 | 0.9473300208733966 | 0.5 | 0.97 | 0.82 | 1 | 0.4548611111111111 | 0.39752185351777986 | 1
+R20: THUẾ CƠ SỞ 13 | 0.7641921397379913 | 0.8306559882544573 | -1 | 0.9997502009694281 | 0.9473300208733966 | 1 | 0.94 | 0.82 | 1 | 0.3564476885644769 | 0.39752185351777986 | -0.5
+R21: THUẾ CƠ SỞ 14 | 0.847972972972973 | 0.8306559882544573 | 0.5 | 0.9474711671790753 | 0.9473300208733966 | 0.5 | 0.77 | 0.82 | -0.5 | 0.3805970149253731 | 0.39752185351777986 | -0.5
+R22: THUẾ CƠ SỞ 15 | 0.7390829694323144 | 0.8306559882544573 | -1 | 0.9228233989776814 | 0.9473300208733966 | -0.5 | 0.68 | 0.82 | -1 | 0.33737864077669905 | 0.39752185351777986 | -1
+R23: THUẾ CƠ SỞ 16 | 0.8199210446401457 | 0.8306559882544573 | -0.5 | 0.9450097184882262 | 0.9473300208733966 | -0.5 | 0.94 | 0.82 | 1 | 0.47191011235955055 | 0.39752185351777986 | 1
+R24: THUẾ CƠ SỞ 17 | 0.6328125 | 0.8306559882544573 | -1 | 0.8921612748385622 | 0.9473300208733966 | -1 | 0.95 | 0.82 | 1 | 0.4732142857142857 | 0.39752185351777986 | 1
+R25: THUẾ CƠ SỞ 18 | 0.8041958041958042 | 0.8306559882544573 | -0.5 | 0.8888408548949676 | 0.9473300208733966 | -1 | 0.94 | 0.82 | 1 | 0.47470817120622566 | 0.39752185351777986 | 1
+R26: THUẾ CƠ SỞ 19 | 0.7318181818181818 | 0.8306559882544573 | -1 | 0.8673474997361075 | 0.9473300208733966 | -1 | 0.95 | 0.82 | 1 | 0.4852941176470588 | 0.39752185351777986 | 1
+R27: THUẾ CƠ SỞ 20 | 0.8987341772151899 | 0.8306559882544573 | 1 | 0.8425562805013104 | 0.9473300208733966 | -1 | 0.96 | 0.82 | 1 | 0.36619718309859156 | 0.39752185351777986 | -0.5
+R28: THUẾ CƠ SỞ 21 | 0.8511904761904762 | 0.8306559882544573 | 0.5 | 0.9921717482780615 | 0.9473300208733966 | 0.5 | 1 | 0.82 | 1 | 0.6070287539936102 | 0.39752185351777986 | 1
+R29: THUẾ CƠ SỞ 22 | 0.7873134328358209 | 0.8306559882544573 | -0.5 | 0.6318685795696768 | 0.9473300208733966 | -1 | 0.89 | 0.82 | 1 | 0.48046875 | 0.39752185351777986 | 1
+R30: THUẾ CƠ SỞ 23 | 0.68359375 | 0.8306559882544573 | -1 | 0.9681412493252991 | 0.9473300208733966 | 0.5 | 0.84 | 0.82 | 0.5 | 0.30869565217391304 | 0.39752185351777986 | -1
+R31: THUẾ CƠ SỞ 24 | 0.8695652173913043 | 0.8306559882544573 | 0.5 | 0.9349191306132525 | 0.9473300208733966 | -0.5 | 0.93 | 0.82 | 1 | 0.5403225806451613 | 0.39752185351777986 | 1
+R32: THUẾ CƠ SỞ 25 | 0.9529411764705882 | 0.8306559882544573 | 1 | 0.9991608995765996 | 0.9473300208733966 | 1 | 0.81 | 0.82 | -0.5 | 0.4675324675324675 | 0.39752185351777986 | 1
+
+--- SHEET: 8. Phòng Ktr3 (Rows: 12, Cols: 8) ---
+R01: Đơn vị | Chỉ tiêu 1 |  |  | Chỉ tiêu 2 |  |  | 
+R02:  | Tỷ lệ số tồn quá hạn/Tổng số hồ sơ tồn hoàn trước | Bình quân toàn ngành | Tính điểm | Tỷ lệ số tồn quá hạn/Tổng số hồ sơ tồn kiểm trước | Bình quân toàn ngành | Tính điểm | 
+R03: Phòng Quản lý, Hỗ trợ doanh nghiệp số 1 | 0 | 0 | 0 |  |  |  | 
+R04: Phòng Quản lý, Hỗ trợ doanh nghiệp số 2 | 0 | 0 | 0 |  |  |  | 
+R05: Phòng Quản lý, Hỗ trợ doanh nghiệp số 3 | 0 | 0 | 0 |  |  |  | 
+R06: Phòng Quản lý, Hỗ trợ doanh nghiệp số 4 | 0 | 0 | 0 |  |  |  | 
+R07: Phòng Quản lý, Hỗ trợ doanh nghiệp số 5 | 0 | 0 | 0 |  |  |  | 
+R08: Phòng Kiểm tra thuế số 1 |  |  |  | 0.08 | 0.0071174377224199285 | -1 | 
+R09: Phòng Kiểm tra thuế số 2 |  |  |  | 0 | 0.0071174377224199285 | 0.5 | 
+R10: Phòng Kiểm tra thuế số 3 |  |  |  | 0 | 0.0071174377224199285 | 0.5 | 
+R11: Phòng Kiểm tra thuế số 4 |  |  |  | 0 | 0.0071174377224199285 | 0.5 | 
+R12: Phòng Kiểm tra thuế số 5 |  |  |  | 0 | 0.0071174377224199285 | 0.5 | 
